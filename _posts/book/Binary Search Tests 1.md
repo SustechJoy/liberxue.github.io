@@ -6,12 +6,8 @@ background-image: https://o243f9mnq.qnssl.com/2017/06/116099051.jpg
 date:  2017-03-07
 category: book
 tags:
-- github
-- git-crypt
-- encfs
-- gpg
-- git-remote-gcryp
-- sshfs
+- ACM
+- Binary_Search
 ---
 
 ## Binary Search Tests
