@@ -34,7 +34,7 @@ category: road
 
 ### 青轴
 
-![img](https://pic3.zhimg.com/v2-e535d19fdec8b736672bf78ab33d6546_b.jpg)
+![img](https://pic3.zhimg.com/v2-e535d19fdec8b736672bf78ab33d6546_b.gif)
 
 压力克数：60
 
@@ -56,7 +56,7 @@ category: road
 
 ### 茶轴
 
-![img](https://pic4.zhimg.com/v2-21436c9b84b23f7d24f4efa182469cc3_b.jpg)
+![img](https://pic4.zhimg.com/v2-21436c9b84b23f7d24f4efa182469cc3_b.gif)
 
 压力克数：60
 
@@ -72,7 +72,7 @@ category: road
 
 ### 红轴
 
-![img](https://pic3.zhimg.com/v2-36ba25231002d615ba20fbe716d38a5a_b.jpg)
+![img](https://pic3.zhimg.com/v2-36ba25231002d615ba20fbe716d38a5a_b.gif)
 
 压力克数：40
 
@@ -245,3 +245,5 @@ PBT坚硬度比 POM 还要高，耐用抗打油，抗氧化抗腐蚀效果也非
 来源：知乎
 
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+created by Joy.
