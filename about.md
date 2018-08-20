@@ -2,7 +2,7 @@
 layout: blog
 title: About Joy
 description: "关于Joy博客角落自述"
-data: 2018-08-20 09:19:11
+date: 2018-08-20 09:19:11
 tags: 
 - 简述
 - 关于
@@ -28,9 +28,9 @@ redirect_from:
 
 ### 使用语言
 
- ``c++``
+ ``c++``|
  
- ``JavaScript`` 
+ ``JavaScript``| 
   
   ``Python`` |``Java``
   
