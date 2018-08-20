@@ -1,3 +1,19 @@
+---
+layout: blog
+istop: true
+title: "Binary Search Tests 1"
+background-image: https://o243f9mnq.qnssl.com/2017/06/116099051.jpg
+date:  2017-03-07
+category: book
+tags:
+- github
+- git-crypt
+- encfs
+- gpg
+- git-remote-gcryp
+- sshfs
+---
+
 ## Binary Search Tests
 
 ### Easy1: High School Problem
