@@ -1,3 +1,15 @@
+---
+layout: blog
+book: true
+title:  "Binary Search Test 2"
+tags:
+- ACM
+- binary search
+background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-15/82431810.jpg
+date:   2017-06-27 23:43:54
+category: book
+---
+
 ## Binary Search Tests 
 
 #### Easy2: Find the demon 
