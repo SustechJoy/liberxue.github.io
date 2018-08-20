@@ -90,11 +90,7 @@ category: road
 
 一，到你们的当地的实体店体验一下。一般来说，一二线城市都有专门的机械键盘店，百度一下位置然后自己过去试一下就好了。
 
-二，买这个玩意：
-
-<img src="https://pic2.zhimg.com/v2-095628e1b664fb303304c0eee8efb109_b.jpg" data-caption="" data-size="normal" data-rawwidth="750" data-rawheight="861" class="origin_image zh-lightbox-thumb" width="750" data-original="https://pic2.zhimg.com/v2-095628e1b664fb303304c0eee8efb109_r.jpg">
-
-[https://s.click.taobao.com/cxXMgVw](https://link.zhihu.com/?target=https%3A//s.click.taobao.com/cxXMgVw)
+二，[https://s.click.taobao.com/cxXMgVw](https://link.zhihu.com/?target=https%3A//s.click.taobao.com/cxXMgVw)
 
 机械键盘试轴器，可以体验各个轴的感觉，价格不贵，国产轴十几块钱搞定，樱桃轴大概三十块。
 
@@ -152,8 +148,6 @@ PBT坚硬度比 POM 还要高，耐用抗打油，抗氧化抗腐蚀效果也非
 
 ##### 雷柏V500S 
 
-<img src="https://pic3.zhimg.com/v2-5561e6620f620a04622bf0c9c98d7066_b.jpg" data-caption="" data-size="normal" data-rawwidth="750" data-rawheight="3114" class="origin_image zh-lightbox-thumb" width="750" data-original="https://pic3.zhimg.com/v2-5561e6620f620a04622bf0c9c98d7066_r.jpg">
-
 价格：标准版149元，冰晶版199元。两者仅仅是外观差异
 
 京东旗舰店：
@@ -174,8 +168,6 @@ PBT坚硬度比 POM 还要高，耐用抗打油，抗氧化抗腐蚀效果也非
 
 ##### 高斯GS87c
 
-<img src="https://pic1.zhimg.com/v2-0af066ed4db80c0c4eba4829c1ff6b50_b.jpg" data-caption="" data-size="normal" data-rawwidth="430" data-rawheight="430" class="origin_image zh-lightbox-thumb" width="430" data-original="https://pic1.zhimg.com/v2-0af066ed4db80c0c4eba4829c1ff6b50_r.jpg">
-
 价格：299元
 
 天猫授权店：[高斯授权gs87](https://link.zhihu.com/?target=https%3A//s.click.taobao.com/xd17gVw) 高斯在天猫和京东都没有旗舰店
@@ -191,8 +183,6 @@ PBT坚硬度比 POM 还要高，耐用抗打油，抗氧化抗腐蚀效果也非
 
 
 ##### 雷蛇（Razer）黑寡妇蜘蛛竞技LGD战队白色版 
-
-<img src="https://pic4.zhimg.com/v2-9e35e924253369d789b4d7d52877131f_b.jpg" data-caption="" data-size="normal" data-rawwidth="790" data-rawheight="481" class="origin_image zh-lightbox-thumb" width="790" data-original="https://pic4.zhimg.com/v2-9e35e924253369d789b4d7d52877131f_r.jpg">
 
 价格：299
 
@@ -215,8 +205,6 @@ PBT坚硬度比 POM 还要高，耐用抗打油，抗氧化抗腐蚀效果也非
 300-400
 
 ##### Ikbc c87 c104
-
-<img src="https://pic3.zhimg.com/v2-7945aebb83af46af07ae65dfc687d5be_b.jpg" data-caption="" data-size="normal" data-rawwidth="350" data-rawheight="350" class="content_image" width="350">
 
 价格：310-359
 
