@@ -42,9 +42,16 @@
             {% endif %}
         </li>
         <li>
+            {% if paginator.total_pages == 1 %}
+            <a href="/?liberxue" data-hover="末页">
+                   <span>末页</span>
+               </a>
+            {% else %}
             <a href="/liberxuepage{{paginator.total_pages}}?liberxue" data-hover="末页">
                 <span>末页</span>
             </a>
+            {% endif %}
+            
         </li>
         <li class="current">
             <span>第{{paginator.page}}页 / 共{{paginator.total_pages}}页</span>
