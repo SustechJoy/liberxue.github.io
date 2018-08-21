@@ -1,6 +1,7 @@
 ---
 layout: blog
 book: true
+comments: true
 title:  "Binary Search Test 3"
 tags:
 - ACM
