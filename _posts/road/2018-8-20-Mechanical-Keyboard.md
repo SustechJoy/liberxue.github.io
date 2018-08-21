@@ -8,7 +8,7 @@ tags:
 - cherry
 background-image: https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2131483270,2819516306&fm=27&gp=0.jpg
 date:   2018-08-20 18:51:54
-category: equipments
+category: road
 ---
 
 ## 简单介绍一下这四种轴各有什么特点：
