@@ -8,7 +8,7 @@ tags:
 - binary search
 background-image: http://www.sustc.edu.cn/resources/cn/image/p27.png
 date:   2018-08-20 11:15:00
-category: code
+category: book
 ---
 
 ## Binary Search Tests
