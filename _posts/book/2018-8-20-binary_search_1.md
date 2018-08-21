@@ -8,8 +8,7 @@ tags:
 - ACM
 background-image: http://www.sustc.edu.cn/resources/cn/image/p27.png
 date:   2018-08-20 23:43:54
-category: book
-ascription: book
+category: code
 ---
 
 ## Binary Search Tests
