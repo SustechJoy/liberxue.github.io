@@ -6,9 +6,7 @@ description: "分享正在看和看过想看的一些书籍"
 <div class="main-content index-page clearfix ">
 	<div class="post-lists">
 		<div class="post-lists-body">
-	  {% for post in paginator.posts %}
-	    <a href="{{ post.url }}"></a>
-		{% for posts in site.posts %}
+	{% for posts in site.posts %}
 	   {% if posts.book%}
 		<div class="post-list-item">
 				<div class="post-list-item-container">
@@ -33,8 +31,6 @@ description: "分享正在看和看过想看的一些书籍"
 	  </div>
 			 {% endif %}
        {% endfor %}
-	{% endfor %}
-	  
 	</div>
 	</div>
   {% include pagination.html %}
