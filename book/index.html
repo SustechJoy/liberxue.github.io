@@ -6,8 +6,8 @@ description: "分享正在看和看过想看的一些书籍"
 <div class="main-content index-page clearfix ">
 	<div class="post-lists">
 		<div class="post-lists-body">
-	{% for posts in paginator.posts %}
-			<span>{{paginator.posts.title}}</span>
+	{% for post in paginator.posts %}
+	    <span>{{ post.url }}</span>
 	{% endfor %}
 	{% for posts in site.posts %}
 	   {% if posts.book%}
