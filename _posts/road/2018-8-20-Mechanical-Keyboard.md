@@ -1,5 +1,6 @@
 ---
 layout: blog
+comments: true
 road: true
 title:  "Mechanical Keyboard Selection"
 tags:
