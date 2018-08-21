@@ -1,5 +1,6 @@
 ---
 layout: blog
+comments: true
 book: true
 title:  "Binary Search Test 5"
 tags:
