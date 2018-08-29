@@ -1,7 +1,7 @@
 ---
 layout: blog
 comments: true
-book: true
+book: false
 title:  "Binary Search Test 5"
 tags:
 - ACM
