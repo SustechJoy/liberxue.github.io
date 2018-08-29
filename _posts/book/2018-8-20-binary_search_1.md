@@ -1,7 +1,7 @@
 ---
 layout: blog
 comments: true
-book: true
+book: false
 title:  "Binary Search Tests 1"
 tags:
 - Binary_Search
