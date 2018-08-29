@@ -1,6 +1,6 @@
 ---
 layout: blog
-book: true
+book: false
 comments: true
 title:  "Binary Search Test 3"
 tags:
