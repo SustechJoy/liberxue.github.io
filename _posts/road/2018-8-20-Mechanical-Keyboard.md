@@ -17,7 +17,7 @@ category: road
 
 ### 黑轴
 
-![img](https://pic2.zhimg.com/v2-4695e021ca3dca5d9b848ac710779141_b.gif)
+![PvhucV.gif](https://s1.ax1x.com/2018/09/01/PvhucV.gif)
 
 压力克数：80
 
@@ -35,7 +35,7 @@ category: road
 
 ### 青轴
 
-![img](https://pic3.zhimg.com/v2-e535d19fdec8b736672bf78ab33d6546_b.gif)
+![Pvh0BD.gif](https://s1.ax1x.com/2018/09/01/Pvh0BD.gif)
 
 压力克数：60
 
@@ -57,7 +57,7 @@ category: road
 
 ### 茶轴
 
-![img](https://pic4.zhimg.com/v2-21436c9b84b23f7d24f4efa182469cc3_b.gif)
+![PvhrAH.gif](https://s1.ax1x.com/2018/09/01/PvhrAH.gif)
 
 压力克数：60
 
@@ -73,7 +73,7 @@ category: road
 
 ### 红轴
 
-![img](https://pic3.zhimg.com/v2-36ba25231002d615ba20fbe716d38a5a_b.gif)
+![PvhsNd.gif](https://s1.ax1x.com/2018/09/01/PvhsNd.gif)
 
 压力克数：40
 
