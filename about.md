@@ -65,7 +65,9 @@ UAV群组飞行动态系统
 ### 文章 Publications
 
 BDS和GIS支持下的智能服务手环设计与实现 
+
 *计算机技术与发展*
+
 Yalan Wang, Zhanao Zhao, Yi Zhao, Xu Yang, Shuying Zhang
 
 # 权利声明
