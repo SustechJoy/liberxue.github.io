@@ -10,7 +10,7 @@ redirect_from:
   - /about/
 ---
 
-## Joy  中文名赵诣
+## 赵诣 Joy
 
 ## SUSTech Computer Science and Engineering, Shenzhen, Guangdong
 
