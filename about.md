@@ -12,9 +12,15 @@ redirect_from:
 
 ## 赵诣 Joy
 
-## SUSTech Computer Science and Engineering, Shenzhen, Guangdong
+### 教育经历
 
-## 南方科技大学，深圳，广东，计算机科学与工程在读
+## Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong.
+
+## 本科: 南方科技大学，深圳，广东，计算机科学与工程
+
+## Summer Research: University of California, Irvine.
+
+## 暑期科研项目: 加州大学，欧文分校
 
 ### 项目经历
 
@@ -54,7 +60,7 @@ UAV群组飞行动态系统
 
 ### 文章 Publications
 
-1. BDS和GIS支持下的智能服务手环设计与实现 [on process]
+1. BDS和GIS支持下的智能服务手环设计与实现  *中文核心*  [on process]
 
 *计算机技术与发展* **Yalan Wang, Zhanao Zhao, Yi Zhao, Xu Yang, Shuying Zhang**
 
