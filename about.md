@@ -14,13 +14,13 @@ redirect_from:
 
 ## 教育经历
 
-### Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong.
+Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong.
 
-### 本科: 南方科技大学，深圳，广东，计算机科学与工程
+本科: 南方科技大学，深圳，广东，计算机科学与工程
 
-### Summer Research: University of California, Irvine.
+Summer Research: University of California, Irvine.
 
-### 暑期科研项目: 加州大学，欧文分校
+暑期科研项目: 加州大学，欧文分校
 
 ## 项目经历
 
