@@ -12,17 +12,17 @@ redirect_from:
 
 ## 赵诣 Joy
 
-### 教育经历
+## 教育经历
 
-## Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong.
+### Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong.
 
-## 本科: 南方科技大学，深圳，广东，计算机科学与工程
+### 本科: 南方科技大学，深圳，广东，计算机科学与工程
 
-## Summer Research: University of California, Irvine.
+### Summer Research: University of California, Irvine.
 
-## 暑期科研项目: 加州大学，欧文分校
+### 暑期科研项目: 加州大学，欧文分校
 
-### 项目经历
+## 项目经历
 
 2018南科大-腾讯实践项目学员
 
@@ -36,7 +36,7 @@ UAV群组飞行动态系统
 
 基于多硬件系统规划的TensorFlow深度学习框架优化系统
 
-### 获奖经历
+## 获奖经历
 
 2018国际大学生程序设计大赛(ACM-ICPC)亚洲区决赛EC-Final     铜奖
 
@@ -58,13 +58,13 @@ UAV群组飞行动态系统
  
 2016-2017南方科技大学树仁书院-启德企业奖学金               三等奖
 
-### 文章 Publications
+## 文章 Publications
 
 1. BDS和GIS支持下的智能服务手环设计与实现  *中文核心*  [on process]
 
 *计算机技术与发展* **Yalan Wang, Zhanao Zhao, Yi Zhao, Xu Yang, Shuying Zhang**
 
-# 权利声明
+## 权利声明
 
 本“博客”的一切知识产权，以及与"博客"相关的所有信息内容，包括但不限于： 文字表述及其组合、图标、图饰、图像、图表、色彩、界面设计、版面框架、有关数据、附加程序、印刷材料或电子文档等均为博客作者所有， 受著作权法和国际著作权条约以及其他知识产权法律法规的保护。
 
