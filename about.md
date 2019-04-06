@@ -76,3 +76,9 @@ UAV群组飞行动态系统
 
 - [发邮件](mailto:11612917@mail.sustech.edu.cn)
 - [Twitter](https://twitter.com/YiZhao64252304).
+
+#### 友情链接
+------
+- [hguandl](https://hguandl.com)
+- [hackroid](https://blog.hackroid.com).
+
