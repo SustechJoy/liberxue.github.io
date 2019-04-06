@@ -80,5 +80,5 @@ UAV群组飞行动态系统
 #### 友情链接
 ------
 - [hguandl](https://hguandl.com)
-- [hackroid](https://blog.hackroid.com).
+- [hackroid](https://blog.hackroid.com)
 
