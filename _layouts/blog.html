@@ -56,7 +56,7 @@
       {% else %}
       {% for tag in tags_list %} 
           <a href="/tags#{{ tag[0] }}" title="访问 {{ tag[0] }}" data-hover="{{tag[0]}}">
-            {{ tag[0] }} <span>({{ tag[1].size }})</span>
+            {{ tag[0] }}
             {% unless forloop.last %}{% endunless %}
           </a>
       {% endfor %}
