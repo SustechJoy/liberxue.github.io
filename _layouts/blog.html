@@ -42,7 +42,6 @@
 	{{ page.title }}</h1>
 		 <div class="post-data">  
 	 <time datetime="{{ page.date | date: '%F %H:%M:%S'}}" itemprop="datePublished">发布时间：{{ page.date | date: "%F %H:%M:%S"}}</time>
-     <a href="/tags#{{ page.category }}" title="访问 {{ page.category }}"
 			</div>
             <div class="post-tags">
                 {% unless page.tags == empty %}
