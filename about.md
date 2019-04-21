@@ -4,8 +4,7 @@ title: About Joy
 description: "赵诣个人简历"
 date: 2018-08-20 09:19:11
 tags: 
-- 简述
-- 关于
+- 个人简述
 redirect_from:
   - /about/
 ---
@@ -21,6 +20,10 @@ Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong.
 Summer Research: University of California, Irvine.
 
 暑期科研项目: 加州大学，欧文分校
+
+ASAP: University of California, Irvine.
+
+学期交流项目: 加州大学，欧文分校
 
 ## 项目经历
 
@@ -68,9 +71,6 @@ UAV群组飞行动态系统
 
 *IJSER*  **Yi Zhao, Gexing Wang, Shuying Zhang**
 
-## 权利声明
-
-本“博客”的一切知识产权，以及与"博客"相关的所有信息内容，包括但不限于： 文字表述及其组合、图标、图饰、图像、图表、色彩、界面设计、版面框架、有关数据、附加程序、印刷材料或电子文档等均为博客作者所有， 受著作权法和国际著作权条约以及其他知识产权法律法规的保护。
 
 #### 联系方式
 
