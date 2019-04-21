@@ -26,7 +26,7 @@ links:
   - name:         标签
     url:          /tags
     external:     false
-  - name:         关于
+  - name:         个人简历
     url:          /about
     external:     false
 # ------------ CONFIGURABLE END ------------
