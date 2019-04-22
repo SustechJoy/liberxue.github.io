@@ -67,7 +67,7 @@ UAV群组飞行动态系统
 
 *计算机技术与发展*  **Yalan Wang, Zhanao Zhao, Yi Zhao, Shuying Zhang, Xu Yang**
 
-[2]. A newly developed algorithm based on tabu search for the Capacitated Arc Routing Problem (CARP) 
+[2]. [A newly developed algorithm based on tabu search for the Capacitated Arc Routing Problem (CARP)](https://www.ijser.org/onlineResearchPaperViewer.aspx?A-newly-developed-algorithm-based-on-tabu-search-for-the-Capacitated-Arc-Routing-Problem-CARP.pdf)
 
 *IJSER*  **Yi Zhao, Gexing Wang, Shuying Zhang**
 
