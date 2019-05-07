@@ -4,7 +4,7 @@ title: About Joy
 description: "赵诣个人简历"
 date: 2018-08-20 09:19:11
 tags: 
-- 个人简述
+- 个人简历
 redirect_from:
   - /about/
 ---
@@ -26,6 +26,8 @@ ASAP: University of California, Irvine.
 学期交流项目: 加州大学，欧文分校
 
 ## 项目经历
+
+大学生创新创业项目负责人
 
 2018南科大-腾讯实践项目学员
 
