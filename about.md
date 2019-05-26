@@ -31,7 +31,7 @@ ASAP: University of California, Irvine.
 
 基于BDS与GIS的地理路径规划系统
 
-南方科技大学选课系统 (大学生创新创业项目)
+南方科技大学选课系统 (大学生创新创业项目负责人)
 
 UAV群组飞行动态系统
 
