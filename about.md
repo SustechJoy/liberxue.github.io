@@ -9,7 +9,7 @@ redirect_from:
   - /about/
 ---
 
-## 赵诣 Joy
+## 赵诣 Yi Zhao
 
 ## 教育经历
 
