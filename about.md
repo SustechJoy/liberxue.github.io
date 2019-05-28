@@ -21,10 +21,6 @@ Summer Research: University of California, Irvine.
 
 暑期科研项目: 加州大学，欧文分校
 
-ASAP: University of California, Irvine.
-
-学期交流项目: 加州大学，欧文分校
-
 ## 项目经历
 
 2018南科大-腾讯实践项目学员
