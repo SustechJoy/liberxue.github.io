@@ -9,6 +9,8 @@ redirect_from:
   - /about/
 ---
 
+[Download My CV here.](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/%E8%B5%B5%E8%AF%A3CV.pdf)
+
 ## 赵诣 Yi Zhao
 
 ## 教育经历
