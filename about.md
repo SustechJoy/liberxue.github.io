@@ -8,7 +8,7 @@ tags:
 redirect_from:
   - /about/
 ---
-### [下载我的个人简历](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/%E8%B5%B5%E8%AF%A3CV.pdf)
+### [下载我的个人简历](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/%E8%B5%B5%E8%AF%A3%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86.pdf)
 
 ### [Download My CV here.](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/%E8%B5%B5%E8%AF%A3CV.pdf)
 
