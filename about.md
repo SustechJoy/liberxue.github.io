@@ -3,7 +3,6 @@ layout: blog
 title: About Joy
 description: "赵诣个人简历"
 date: 2018-08-20 09:19:11
-tags: 
 redirect_from:
   - /about/
 ---
