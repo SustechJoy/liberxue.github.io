@@ -8,7 +8,7 @@ redirect_from:
 ---
 ### [**<u>下载我的个人简历 (中文)</u>**](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/%E8%B5%B5%E8%AF%A3%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86.pdf)
 
-### [<u>**Download My CV here (English)**</u>](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/%E8%B5%B5%E8%AF%A3CV.pdf)
+### [**<u>Download My CV here (English)</u>**](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/%E8%B5%B5%E8%AF%A3CV.pdf)
 
 ## 赵诣 Yi Zhao
 
@@ -85,8 +85,8 @@ UAV群组飞行动态系统
 
 你可以通过以下几种方式联系到我。
 
-- [发邮件](mailto:11612917@mail.sustech.edu.cn)
-- [Twitter](https://twitter.com/YiZhao64252304).
+- [学校邮箱](mailto:11612917@mail.sustech.edu.cn)
+- [个人邮箱](mailto:joy11612917@gmail.com).
 
 #### 友情链接
 ------
