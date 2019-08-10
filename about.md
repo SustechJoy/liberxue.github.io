@@ -8,7 +8,7 @@ redirect_from:
 ---
 ### [**<u>下载我的个人简历 (中文)</u>**](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/%E8%B5%B5%E8%AF%A3%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86.pdf)
 
-### [**<u>Download My CV here (English)</u>**](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/Yi%20Zhao%20CV.pdf)
+### [**<u>Download My CV here</u>**](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/Yi%20Zhao%20CV.pdf)
 
 ## 赵诣 Yi Zhao
 
