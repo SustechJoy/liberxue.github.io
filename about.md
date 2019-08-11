@@ -82,7 +82,7 @@ UAV群组飞行动态系统
 你可以通过以下几种方式联系到我。
 
 - [学校邮箱](mailto:11612917@mail.sustech.edu.cn)
-- [个人邮箱](mailto:joy11612917@gmail.com).
+- [个人邮箱](mailto:joy11612917@gmail.com)
 
 #### 友情链接
 ------
