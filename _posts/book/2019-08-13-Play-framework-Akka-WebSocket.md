@@ -8,7 +8,7 @@ tags:
 - Scala
 - Play framework
 - WebSocket
-background-image: https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg
+background-image: https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/play-framework-logo-.png
 date:   2019-08-13 11:43:00
 category: book
 ---
