@@ -6,7 +6,7 @@ title:  "Mechanical Keyboard Selection"
 tags:
 - Mechanical Keyboard
 - cherry
-background-image: https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2131483270,2819516306&fm=27&gp=0.jpg
+background-image: https://zdnet1.cbsistatic.com/hub/i/r/2018/04/17/ad94aae4-cea5-4c63-ae44-44ff8c126400/resize/770xauto/472d85e7213d8d8774d972dc7864f48e/img8481.jpg
 date:   2018-08-20 18:51:54
 category: road
 ---
@@ -17,7 +17,7 @@ category: road
 
 ### 黑轴
 
-![PvhucV.gif](https://zdnet1.cbsistatic.com/hub/i/r/2018/04/17/ad94aae4-cea5-4c63-ae44-44ff8c126400/resize/770xauto/472d85e7213d8d8774d972dc7864f48e/img8481.jpg)
+![PvhucV.gif](https://s1.ax1x.com/2018/09/01/PvhucV.gif)
 
 压力克数：80
 
