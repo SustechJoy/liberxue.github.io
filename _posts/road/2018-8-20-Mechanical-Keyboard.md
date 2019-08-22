@@ -17,7 +17,7 @@ category: road
 
 ### 黑轴
 
-![PvhucV.gif](https://s1.ax1x.com/2018/09/01/PvhucV.gif)
+![PvhucV.gif](https://zdnet1.cbsistatic.com/hub/i/r/2018/04/17/ad94aae4-cea5-4c63-ae44-44ff8c126400/resize/770xauto/472d85e7213d8d8774d972dc7864f48e/img8481.jpg)
 
 压力克数：80
 
