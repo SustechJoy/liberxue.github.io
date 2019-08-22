@@ -12,7 +12,7 @@ redirect_from:
 
 ## 赵诣 Yi Zhao
 
-## 教育经历Education
+## 教育经历 Education
 
 Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong.
 
@@ -22,7 +22,7 @@ Summer Research: University of California, Irvine.
 
 暑期科研项目: 加州大学，欧文分校
 
-## 项目经历Project
+## 项目经历 Project
 
 Cloudberry: Bigdata Visualization (University of California, Irvine)
 
@@ -52,7 +52,7 @@ Tensorflow optimization system based on multi-hardware congruent planning
 
 基于多硬件系统规划的TensorFlow深度学习框架优化系统
 
-## 工作实践经历
+## 工作实践经历 Experience
 
 2017 State Grid Corporation of China Database developing
 
@@ -70,7 +70,7 @@ Tensorflow optimization system based on multi-hardware congruent planning
 
 2017-2018 南方科技大学 数据库原理 课程助教
 
-## 获奖经历
+## 获奖经历 Award
 
 Dec 2018 ACM-ICPC Asia East-Continent Final Site 2018 Bronze Medal
 
