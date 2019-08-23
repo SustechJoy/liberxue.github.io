@@ -33,7 +33,7 @@ category: book
 
 1. 配置域名解析
 
-![1566516137769](/home/yi/.config/Typora/typora-user-images/1566516137769.png)
+![1566516137769](https://raw.githubusercontent.com/SustechJoy/SustechJoy.github.io/master/_posts/book/img/1566516137769.png)
 
 此网络应用需打开多个端口，如云服务器存在端口防火墙，请逐一开启。
 
@@ -189,11 +189,11 @@ tunnels:
 
 启动成功
 
-![1566523896653](/home/yi/.config/Typora/typora-user-images/1566523896653.png)
+![1566523896653](https://raw.githubusercontent.com/SustechJoy/SustechJoy.github.io/master/_posts/book/img/1566523896653.png)
 
 10. 可以在内网主机localhost:4000检查连接状态
 
-![1566524867247](/home/yi/.config/Typora/typora-user-images/1566524867247.png)
+![1566524867247](https://raw.githubusercontent.com/SustechJoy/SustechJoy.github.io/master/_posts/book/img/1566524867247.png)
 
 Reference
 
