@@ -1,14 +1,14 @@
 ---
 layout: blog
-title: About Joey
+title: About Yi Zhao
 description: "赵诣个人简历"
 date: 2018-08-20 09:19:11
 redirect_from:
   - /about/
 ---
-### [**<u>下载我的个人简历 (中文)</u>**](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/%E8%B5%B5%E8%AF%A3%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86.pdf)
+### [**<u>Download My Resume here</u>**](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/Yi%20Zhao%20CV.pdf)
 
-### [**<u>Download My CV here</u>**](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/Yi%20Zhao%20CV.pdf)
+### [**<u>下载我的个人简历 (中文)</u>**](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/%E8%B5%B5%E8%AF%A3%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86.pdf)
 
 ## Yi Zhao
 
@@ -72,7 +72,7 @@ July 2017 Third class EIC scholarship, Shuren College.
 - [Institution mail](mailto:11612917@mail.sustech.edu.cn)
 - [Personal mail](mailto:joy11612917@gmail.com)
 
-#### 友情链接 Link
+#### Link
 ------
 - [hguandl](https://hguandl.com)
 - [hackroid](https://blog.hackroid.com)
