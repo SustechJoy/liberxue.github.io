@@ -54,6 +54,8 @@ Nov 2018 ACM-ICPC Asia Regional Contest Xuzhou Site 2018 Bronze Medal.
 
 May 2018 ACM-ICPC Asia Regional Contest Xiangtan Site 2018 Bronze Medal.
 
+Sept 2019 First class Merit-Based Undergraduate Scholarship, SUSTech.
+
 Sept 2018 First class Merit-Based Undergraduate Scholarship, SUSTech.
 
 Sept 2017 First class Merit-Based Undergraduate Scholarship, SUSTech.
