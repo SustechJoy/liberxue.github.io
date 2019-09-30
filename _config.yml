@@ -18,10 +18,10 @@ links:
     url:          /about
     external:     false
   - name:         代码
-    url:          /book
+    url:          /code
     external:     false
   - name:         外设
-    url:          /road
+    url:          /harware
     external:     false
 # ------------ CONFIGURABLE END ------------
 

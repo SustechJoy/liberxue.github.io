@@ -1,7 +1,7 @@
 ---
 layout: blog
 banana: true
-category: 负载均衡
+category: code
 title:  Redis,Memcache的区别和具体应用场景及选择
 date:   2017-07-30 10:06:42
 background-image: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1534820880123&di=216f566d462faa4c572c6059a3435a5a&imgtype=0&src=http%3A%2F%2Fimage.mamicode.com%2Finfo%2F201712%2F20180111010838188729.png

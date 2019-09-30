@@ -1,10 +1,10 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "GitHub当作私密的版本控制系统远端版本库私有化"
 background-image: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1534820968880&di=de111d21cfa63d52bc768036538eda00&imgtype=0&src=http%3A%2F%2Folx1ji9hn.bkt.clouddn.com%2Fimage%2Fgwindows_logo.png
 date:  2017-03-07
-category: git
+category: code
 tags:
 - github
 - git-crypt

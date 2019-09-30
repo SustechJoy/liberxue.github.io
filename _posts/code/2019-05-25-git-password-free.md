@@ -7,7 +7,7 @@ tags:
 - github
 background-image: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559496724&di=e5e41a8b0fa0405c8b6a148fd4cdf506&imgtype=jpg&er=1&src=http%3A%2F%2Fcdn4.freepik.com%2Fimage%2Fth%2F318-41747.jpg
 date:   2019-05-25 23:50:00
-category: book
+category: code
 ---
 
 # Git之SSH与HTTPS免密码配置

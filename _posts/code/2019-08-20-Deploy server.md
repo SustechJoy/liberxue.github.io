@@ -11,7 +11,7 @@ tags:
 - Server
 background-image: https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/play-framework-logo-.png
 date:   2019-08-20 16:16:00
-category: book
+category: code
 ---
 
 ## Deploy application on the server

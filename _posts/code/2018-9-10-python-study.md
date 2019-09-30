@@ -7,7 +7,7 @@ tags:
 - Python
 background-image: https://s1.ax1x.com/2018/09/12/iklzxH.jpg
 date:   2018-09-10 18:11:54
-category: book
+category: code
 ---
 ```
 # Single line comments start with a number symbol.

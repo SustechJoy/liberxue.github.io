@@ -8,7 +8,7 @@ tags:
 - Screen
 background-image: https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg
 date:   2019-08-13 10:27:00
-category: book
+category: code
 ---
 
 ## Linux command **screen**

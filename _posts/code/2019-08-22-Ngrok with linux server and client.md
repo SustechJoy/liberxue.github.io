@@ -8,7 +8,7 @@ tags:
 - network
 background-image: https://mannyisles.com/wp-content/uploads/2018/04/ngrok.png
 date:   2019-08-22 18:50:00
-category: book
+category: code
 ---
 
 ## Ngrok with linux server and client

@@ -1,5 +1,6 @@
 ---
 layout: blog
+istop: true
 comments: true
 book: true
 title:  "Large-scale Geometric Graph Visualization"
@@ -9,7 +10,7 @@ tags:
 - visualization
 background-image: http://cloudberry.ics.uci.edu/wp-content/uploads/2018/04/berry-icon.png
 date:   2019-08-25 18:50:00
-category: book
+category: code
 
 ---
 
