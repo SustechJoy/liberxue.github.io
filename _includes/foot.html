@@ -26,7 +26,7 @@
             <div class="meta-item meta-posts">
                 <h3 class="meta-title">置顶文章</h3>
      <!--置顶-->
-    {% for post in site.posts limit:15 %}
+    {% for post in site.posts limit:8 %}
       {% if post.istop %}
       <li><a href="{{ post.url }}" title="访问 {{ post.title }}" data-hover="{{ post.title }}">{{ post.title }}</a></li>
       {% endif %}
@@ -35,7 +35,7 @@
             </div>
             <div class="meta-item meta-comments">
                 <h3 class="meta-title">最新文章</h3>
-  {% for post in site.posts limit:14 %}        
+  {% for post in site.posts limit:8 %}        
       {% if post.book %}
  <li><a href="{{ post.url }}" title="访问 {{ post.title }}" data-hover="{{ post.title }}">{{ post.title }}</a></li>
       {% endif %}
@@ -43,7 +43,7 @@
 </div>
 		</div>
     </div>
-    <div class="footer-social">
+    <div class="footer-record">
 		<div class="footer-container clearfix">
 			<div class="social-list">
     <a class="social github" target="blank" href="http://www.beian.miit.gov.cn" title="粤ICP备18051385号" data-hover="粤ICP备18051385号">粤ICP备18051385号</a>

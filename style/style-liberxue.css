@@ -355,6 +355,9 @@ pre code::after {font-size: 1rem;color: #BFBFBF;position: absolute;top: 5px;righ
 .footer-social .footer-container{max-width:940px;margin:0 auto;}
 .footer-social .social-list{padding:20px;text-align:center;}
 .footer-social .social-list a{font-size:13px;padding:0 25px;text-decoration:none;color:#5f5f5f;}
+.footer-record .footer-container{max-width:940px;margin:0 auto;}
+.footer-record .social-list{padding:20px;text-align:center;}
+.footer-record .social-list a{font-size:13px;padding:0 25px;text-decoration:none;color:#5f5f5f;}
 .footer-meta{padding:50px 0 0;list-style:none;}
 .footer-meta .footer-container{width:100%;max-width: 1024px;height:250px;margin:0 auto;}
 .footer-meta .meta-item{position:relative;float:left;width:33.3333333%;min-height:1px;padding:0 30px;}
