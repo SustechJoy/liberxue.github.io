@@ -23,12 +23,6 @@ links:
   - name:         外设
     url:          /road
     external:     false
-  - name:         归档
-    url:          /archives
-    external:     false
-  - name:         标签
-    url:          /tags
-    external:     false
 # ------------ CONFIGURABLE END ------------
 
 #permalink:        /:categories/:title.html
