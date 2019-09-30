@@ -1,7 +1,7 @@
 ---
 layout: blog
 comments: true
-road: true
+hardware: true
 title:  "Mechanical Keyboard Selection"
 tags:
 - Mechanical Keyboard

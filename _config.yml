@@ -21,7 +21,7 @@ links:
     url:          /code
     external:     false
   - name:         外设
-    url:          /harware
+    url:          /hardware
     external:     false
 # ------------ CONFIGURABLE END ------------
 

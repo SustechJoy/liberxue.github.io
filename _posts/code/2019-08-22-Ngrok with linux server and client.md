@@ -1,7 +1,7 @@
 ---
 layout: blog
 comments: true
-book: true
+code: true
 title:  "自己搭建Ngrok服务器实现内网穿透"
 tags:
 - Ngrok

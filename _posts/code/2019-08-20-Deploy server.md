@@ -1,7 +1,7 @@
 ---
 layout: blog
 comments: true
-book: true
+code: true
 title:  "Deploy play framework server by sbt"
 tags:
 - Scala

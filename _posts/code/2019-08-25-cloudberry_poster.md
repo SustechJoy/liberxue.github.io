@@ -2,7 +2,7 @@
 layout: blog
 istop: true
 comments: true
-book: true
+code: true
 title:  "Large-scale Geometric Graph Visualization"
 tags:
 - cloudberry

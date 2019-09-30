@@ -1,7 +1,7 @@
 ---
 layout: blog
 comments: true
-book: true
+code: true
 title:  "Screen command"
 tags:
 - Linux

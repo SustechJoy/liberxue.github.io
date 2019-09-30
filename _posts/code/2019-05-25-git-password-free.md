@@ -1,7 +1,7 @@
 ---
 layout: blog
 comments: true
-book: true
+code: true
 title:  "github ssh与https 免密登录实现"
 tags:
 - github

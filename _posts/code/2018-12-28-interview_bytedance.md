@@ -1,7 +1,7 @@
 ---
 layout: blog
 comments: true
-book: true
+code: true
 title:  "字节跳动实习面试记录"
 tags:
 - Bytedance

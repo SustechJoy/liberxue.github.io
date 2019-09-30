@@ -1,7 +1,7 @@
 ---
 layout: blog
 comments: true
-book: true
+code: true
 title:  "Play framework Akka WebSocket"
 tags:
 - Akka
