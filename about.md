@@ -6,9 +6,9 @@ date: 2018-08-20 09:19:11
 redirect_from:
   - /about/
 ---
-### [**<u>Download My Resume here</u>**](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/Yi%20Zhao%20CV.pdf)
+### [**<u>Download My Resume here</u>**](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/Yi%20Zhao%20CV.pdf)
 
-### [**<u>下载我的个人简历 (中文)</u>**](https://github.com/SustechJoy/SustechJoy.github.io/raw/master/%E8%B5%B5%E8%AF%A3%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86.pdf)
+### [**<u>下载我的个人简历 (中文)</u>**](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/%E8%B5%B5%E8%AF%A3%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86.pdf)
 
 ## Yi Zhao
 
