@@ -1,14 +1,14 @@
 ---
 layout: blog
 comments: true
-code: true
+record: true
 title:  "字节跳动实习面试记录"
 tags:
 - Bytedance
 - Interview
 background-image: https://s1.ax1x.com/2018/12/28/FWY8h9.jpg
 date:   2018-12-28 17:50:00
-category: code
+category: record
 ---
 
 # 字节跳动实习生面试通关心得
