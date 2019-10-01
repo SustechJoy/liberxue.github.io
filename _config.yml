@@ -23,6 +23,9 @@ links:
   - name:         外设
     url:          /hardware
     external:     false
+  - name:         记录
+    url:          /record
+    external:     false
 # ------------ CONFIGURABLE END ------------
 
 #permalink:        /:categories/:title.html
