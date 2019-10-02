@@ -293,8 +293,8 @@ pre code::after {font-size: 1rem;color: #BFBFBF;position: absolute;top: 5px;righ
 #directory ul,#directory li{margin:0;padding-left:0;list-style:none;}
 #directory>ul{position:relative;border-left:1px solid #ddd;}
 #directory>ul>li::before{position:relative;top:0;left:-4px;display:inline-block;width:7px;height:7px;content:'';border-radius:50%;background-color:#eb5055;}
-#directory ul li a{display:inline-table;margin-left:5px;white-space:nowrap;}
-#directory ul li ul li a{margin-left:20px;white-space:nowrap;color:#5f5f5f;}
+#directory ul li a{display:inline-table;margin-left:5px;}
+#directory ul li ul li a{margin-left:20px;color:#5f5f5f;}
 #directory ul li ul li ul li a{margin-left:30px;color:#5f5f5f;}
 #directory a:hover{color:#eb5055;}
 
