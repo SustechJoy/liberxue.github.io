@@ -1,74 +1,98 @@
 <footer class="footer bg-white">
-	<div class="footer-social">
-		<div class="footer-container clearfix">
-			<div class="social-list">
-    <a class="social github" target="blank" href="https://github.com/yizhao1998" title="访问 Joey_Github" data-hover="GitHub">GitHub</a>
-    <a class="social github" target="blank" href="https://twitter.com/YiZhao64252304" title="访问 Joey_Twitter" data-hover="Twitter">Twitter</a>
-    <a class="social github" target="blank" href="https://www.zhihu.com/people/csmajorer/activities" title="访问 Joey_zhihu" data-hover="zhihu">zhihu</a>
-    <a class="social github" target="blank" href="https://weibo.com/u/6557316371" title="访问 Joey_Weibo" data-hover="Sina Weibo">Sina Weibo</a>
-     </div>
-		</div>
-	</div>
-	<div class="footer-meta">
+    <div class="footer-social">
+        <div class="footer-container clearfix">
+            <div class="social-list">
+                <a class="social github" target="blank" href="https://github.com/yizhao1998" title="访问 Joey_Github"
+                    data-hover="GitHub">GitHub</a>
+                <a class="social github" target="blank" href="https://twitter.com/YiZhao64252304"
+                    title="访问 Joey_Twitter" data-hover="Twitter">Twitter</a>
+                <a class="social github" target="blank" href="https://www.zhihu.com/people/csmajorer/activities"
+                    title="访问 Joey_zhihu" data-hover="zhihu">zhihu</a>
+                <a class="social github" target="blank" href="https://weibo.com/u/6557316371" title="访问 Joey_Weibo"
+                    data-hover="Sina Weibo">Sina Weibo</a>
+            </div>
+        </div>
+    </div>
+    <div class="footer-meta">
         <div class="footer-container">
             <div class="meta-item meta-copyright">
                 <div class="meta-copyright-info">
                     <h3 class="meta-title">技术支持</h3>
                     <div class="info-text">
-			<p>Powered by <a href="https://github.com/" title="Github" data-hover="Github" target="_blank" rel="nofollow">Github</a></p>
-                        <p>Powered by <a href="https://jekyllrb.com/" title="Jekyll" data-hover="Jekyll" target="_blank" rel="nofollow">Jekyll</a></p>
-			<p>Comment System Powered by <a href="https://disqus.com" title="Disqus" data-hover="Disqus" target="_blank" rel="nofollow">Disqus</a></p>
-			<p>Theme credited to <a href="http://liberxue.com" title="Liberxue" data-hover="Liberxue" target="_blank" rel="nofollow">Liberxue</a></p>
-                      </div>
+                        <p>Powered by <a href="https://github.com/" title="Github" data-hover="Github" target="_blank"
+                                rel="nofollow">Github</a></p>
+                        <p>Powered by <a href="https://jekyllrb.com/" title="Jekyll" data-hover="Jekyll" target="_blank"
+                                rel="nofollow">Jekyll</a></p>
+                        <p>Comment System Powered by <a href="https://disqus.com" title="Disqus" data-hover="Disqus"
+                                target="_blank" rel="nofollow">Disqus</a></p>
+                        <p>Theme credited to <a href="http://liberxue.com" title="Liberxue" data-hover="Liberxue"
+                                target="_blank" rel="nofollow">Liberxue</a></p>
+                    </div>
                 </div>
             </div>
             <div class="meta-item meta-posts">
                 <h3 class="meta-title">置顶文章</h3>
-     <!--置顶-->
-    {% for post in site.posts limit:15 %}
-      {% if post.istop %}
-      <li><a href="{{ post.url }}" title="访问 {{ post.title }}" data-hover="{{ post.title }}">{{ post.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-        <!--置顶-->
+                <!--置顶-->
+                {% for post in site.posts limit:15 %}
+                {% if post.istop %}
+                <li><a href="{{ post.url }}" title="访问 {{ post.title }}"
+                        data-hover="{{ post.title }}">{{ post.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+                <!--置顶-->
             </div>
             <div class="meta-item meta-comments">
                 <h3 class="meta-title">最新文章</h3>
-  {% for post in site.posts limit:8 %}        
-      {% if post.code %}
- <li><a href="{{ post.url }}" title="访问 {{ post.title }}" data-hover="{{ post.title }}">{{ post.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-</div>
-		</div>
+                {% for post in site.posts limit:8 %}
+                {% if post.code %}
+                <li><a href="{{ post.url }}" title="访问 {{ post.title }}"
+                        data-hover="{{ post.title }}">{{ post.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
     </div>
     <div class="footer-record">
-		<div class="footer-container clearfix">
-			<div class="social-list">
-    <a class="social github" target="blank" href="http://www.beian.miit.gov.cn" title="粤ICP备18051385号" data-hover="粤ICP备18051385号">粤ICP备18051385号</a>
-		</div>
-	</div>
+        <div class="footer-container clearfix">
+            <div class="social-list" style="
+    padding-top: 0px;
+    padding-bottom: 0px;
+">
+                <a class="social github" target="blank" href="https://scottyi.club/about?yi"
+                    title="Copyright @  2019 Yi Zhao All rights reserved"
+                    data-hover="Copyright @  2019 Yi Zhao All rights reserved">Copyright @ 2019 Yi Zhao All rights
+                    reserved</a>
+            </div>
+        </div>
+    </div>
+    <div class="footer-record">
+        <div class="footer-container clearfix">
+            <div class="social-list">
+                <a class="social github" target="blank" href="http://www.beian.miit.gov.cn" title="粤ICP备18051385号"
+                    data-hover="粤ICP备18051385号">粤ICP备18051385号</a>
+            </div>
+        </div>
 </footer>
 <script src="//cdn.bootcss.com/jquery/2.2.2/jquery.min.js"></script>
 <script src="//cdn.bootcss.com/bootstrap-3-typeahead/4.0.2/bootstrap3-typeahead.js"></script>
 <script src="/search/js/cb-search.js"></script>
 <script>
-$(function () {
-    setTimeout(function () {
-      $('code').removeClass('hljs');
-      $('code').removeClass('language');
-    }, 90);
-});
-(function(){
-    var bp = document.createElement('script');
-    var curProtocol = window.location.protocol.split(':')[0];
-    if (curProtocol === 'https') {
-        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
-    }
-    else {
-        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
-    }
-    var s = document.getElementsByTagName("script")[0];
-    s.parentNode.insertBefore(bp, s);
-})();
+    $(function () {
+        setTimeout(function () {
+            $('code').removeClass('hljs');
+            $('code').removeClass('language');
+        }, 90);
+    });
+    (function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
 </script>
