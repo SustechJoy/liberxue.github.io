@@ -83,7 +83,7 @@ z_1^{(2)}=w_{11}^{(2)}h_1^{(2)}+w_{12}^{(2)}h_2^{(2)}+w_{13}^{(2)}h_3^{(2)}+b_1^
 $$
 Then apply gradient descent, we need to calculate the gradient, take the $w_{12}^{(2)}$ as an example
 $$
-\frac{\partial J}{\partial w_{12}^{(2)}} = \frac{\partial J}{\partial h_1^{(3)}}\frac{{\partial h_1^{(3)}}}{\partial z_{1}^{(2)}}\frac{\partial z_{1}^{(2)}}{\partial w_{12}^{(2)}}
+\frac{\partial J}{\partial w_{12}^{(2)}} = \frac{\partial J}{\partial h_1^{(3)}}\frac{\partial h_1^{(3)}}{\partial z_{1}^{(2)}}\frac{\partial z_{1}^{(2)}}{\partial w_{12}^{(2)}}
 $$
 Start with the last term
 $$
@@ -94,7 +94,7 @@ $$
 $$
 Then the second term 
 $$
-\frac{{\partial h_1^{(3)}}}{\partial z_{1}^{(2)}}= f'(z_{1}^{(2)}) = f(z_{1}^{(2)})(1 - f(z_{1}^{(2)}))
+\frac{\partial h_1^{(3)}}{\partial z_{1}^{(2)}}= f'(z_{1}^{(2)}) = f(z_{1}^{(2)})(1 - f(z_{1}^{(2)}))
 $$
 The derivative of sigmoid is
 
