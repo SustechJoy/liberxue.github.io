@@ -1,10 +1,23 @@
+---
+layout: blog
+comments: true
+code: true
+title:  "Note for Neural Networks(1)"
+tags:
+- ML
+- DNN, ANN
+background-image: https://adventuresinmachinelearning.com/wp-content/uploads/2017/03/medical-abstract-swirls-1-1151086-e1490598260335.jpg
+date:   2018-09-11 23:43:54
+category: code
+---
+
 ## Note for Neural Networks (2)
 
 Gradient descent 
 
 reduce the error between the anticipated and  realistic output
 
-![1570098202831](C:\Users\Joy\AppData\Roaming\Typora\typora-user-images\1570098202831.png)
+![1570098202831](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570098202831.png)
 $$
 w_{new}=w_{old}-\alpha*\nabla error
 $$
@@ -37,8 +50,6 @@ The cost function for a training pair $(x^z, y^z)$ in a neural network is:
 $$
 J(w, b, x^z, y^z) = \frac{1}{2}||y^z-h^{(nl)}(x^z)||^2 = \frac{1}{2}||y^z-h_{pred}(x^z)||^2
 $$
-
-
 This is the cost function of the $z_{th}$ sample where $h^{(n_l)}$ is the output of the final layer
 
 The total cost is:
@@ -56,11 +67,11 @@ $$
 
 Two dimensional Gradient Descent
 
-![1570104403678](C:\Users\Joy\AppData\Roaming\Typora\typora-user-images\1570104403678.png)
+![1570104403678](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570104403678.png)
 
 Backpropagation in  depth (Math Part.)
 
-![1570104506171](C:\Users\Joy\AppData\Roaming\Typora\typora-user-images\1570104506171.png)
+![1570104506171](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570104506171.png)
 
 The output of the NN:
 $$
@@ -90,7 +101,7 @@ $$
 $$
 The derivative of sigmoid is
 
-![1570105978951](C:\Users\Joy\AppData\Roaming\Typora\typora-user-images\1570105978951.png)
+![1570105978951](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570105978951.png)
 
 The loss function
 $$
