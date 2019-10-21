@@ -36,8 +36,6 @@ Tensorflow optimization system based on multi-hardware congruent planning.
 
 ## Experience
 
-2017 State Grid Corporation of China Database developing.
-
 2019 Bytedance backend development.
 
 2017-2018 SUSTech Computer programming principle student assistant.
