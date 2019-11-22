@@ -14,7 +14,7 @@ redirect_from:
 
 ## Education
 
-Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong, supervised by [Prof. Bo Tang](https://acm.sustech.edu.cn/btang) (GPA: 3.89 / 4.00, 1/145)
+Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong, supervised by [Prof. Bo Tang](https://acm.sustech.edu.cn/btang) (GPA: 3.89 / 4.00, 1/146)
 
 Summer Research: University of California, Irvine, supervised by [Prof. Chen Li](https://chenli.ics.uci.edu) (GPA: 4.00 / 4.00)
 
