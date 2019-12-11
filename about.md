@@ -22,7 +22,7 @@ Summer Research: University of California, Irvine, supervised by [Prof. Chen Li]
 
 Cloudberry: Bigdata Visualization (University of California, Irvine).
 
-2018 SUSTech-Tencent Practical Project member (focus on software engineering).
+2018 SUSTech-Tencent Practical Project member (focus on locating crash through static calling graph).
 
 Geographical route planning system based on BDS and GIS.
 
@@ -50,7 +50,7 @@ Oct 2018 China Collegiate of Computing Contest (WeChat Mini Program Developing),
 
 Nov 2018 ACM-ICPC Asia Regional Contest Xuzhou Site 2018 Bronze Medal.
 
-May 2018 ACM-ICPC Asia Regional Contest Xiangtan Site 2018 Bronze Medal.
+May 2018 CCPC National Invitation Competition (Hunan) 2018 Bronze Medal.
 
 Sept 2019 First class Merit-Based Undergraduate Scholarship, SUSTech.
 
@@ -64,7 +64,7 @@ July 2017 Third class EIC scholarship, Shuren College.
 
 ## Publications
 
-[1] Yalan Wang, Zhanao Zhao, Yi Zhao, Shuying Zhang, Xu Yang, and Ji Jian
+[1] Yalan Wang, Zhanao Zhao, **Yi Zhao**, Shuying Zhang, Xu Yang, and Ji Jian
 [“Design and Implementation of Intelligent Service Ring Supported by BDS and GIS” Computer Technology and Development (The key magazine of China technology), 2019](http://kns.cnki.net/kcms/detail/61.1450.TP.20190422.1437.002.html) 
 
 #### Contact me
