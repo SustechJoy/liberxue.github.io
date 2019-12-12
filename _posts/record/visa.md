@@ -1,14 +1,14 @@
-//---
-//layout: blog
-//comments: true
-//record: true
-//title:  "美签06/03/2019 水果 面谈记录"
-//tags:
-//- visa
-//background-image: https://iebk61um7s-flywheel.netdna-ssl.com/wp-content/uploads/Chinese-Visa-Guide.jpg
-//date:   2019-06-03 23:50:00
-//category: record
-//---
+---
+layout: blog
+comments: true
+record: true
+title:  "美签06/03/2019 水果 面谈记录"
+tags:
+- visa
+background-image: https://iebk61um7s-flywheel.netdna-ssl.com/wp-content/uploads/Chinese-Visa-Guide.jpg
+date:   2019-06-03 23:50:00
+category: record
+---
 
 ### 美签06/03/2019 水果 面谈记录
 
