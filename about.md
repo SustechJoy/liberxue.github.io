@@ -18,7 +18,16 @@ Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong, supervi
 
 Summer Research: University of California, Irvine, supervised by [Prof. Chen Li](https://chenli.ics.uci.edu) (GPA: 4.00 / 4.00)
 
+## Publications
+
+[1] W. T. Ning, Q. D. Tang, **Y. Zhao**, C. Yang, X. F. Wang, T. Wang, H. T. Liu, Z. Y. Zhou, C. Z. Zhang, Q. M. Shen, B. Tang" CheetahVIS: A Visual Analytical System for Massive Urban Bus Data", the 2020 International Conference on Management of Data. ACM, 2020. (under review)
+
+[2] Y. L. Wang, Z. N. Zhao, **Y. Zhao**, S.Y. Zhang, X. Yang and J. Jian
+[Design and Implementation of Intelligent Service Ring Supported by BDS and GIS, Computer Technology and Development, 2019](http://kns.cnki.net/kcms/detail/61.1450.TP.20190422.1437.002.html) 
+
 ## Project
+
+CheetahVIS: A Visual Analytical System for Massive Urban Bus Data.
 
 Cloudberry: Bigdata Visualization (University of California, Irvine).
 
@@ -30,7 +39,7 @@ SUSTech course selection system (program manager of China innovation and entrepr
 
 Dynamic UAV group flying system.
 
-Top-k recommendation system on consecutive space.
+Rank aware query on consecutive space.
 
 Tensorflow optimization system based on multi-hardware congruent planning.
 
@@ -61,11 +70,6 @@ Sept 2017 First class Merit-Based Undergraduate Scholarship, SUSTech.
 July 2018 Second class EIC scholarship, Shuren College.
 
 July 2017 Third class EIC scholarship, Shuren College.
-
-## Publications
-
-[1] Yalan Wang, Zhanao Zhao, **Yi Zhao**, Shuying Zhang, Xu Yang, and Ji Jian
-[“Design and Implementation of Intelligent Service Ring Supported by BDS and GIS” Computer Technology and Development (The key magazine of China technology), 2019](http://kns.cnki.net/kcms/detail/61.1450.TP.20190422.1437.002.html) 
 
 #### Contact me
 ------
