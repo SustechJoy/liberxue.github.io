@@ -23,7 +23,7 @@ Summer Research: University of California, Irvine, supervised by [Prof. Chen Li]
 [1] W. T. Ning, Q. D. Tang, **Y. Zhao**, C. Yang, X. F. Wang, T. Wang, H. T. Liu, Z. Y. Zhou, C. Z. Zhang, Q. M. Shen, B. Tang" CheetahVIS: A Visual Analytical System for Massive Urban Bus Data", the 2020 International Conference on Management of Data. ACM, 2020. (under review)
 
 [2] Y. L. Wang, Z. N. Zhao, **Y. Zhao**, S.Y. Zhang, X. Yang and J. Jian
-[Design and Implementation of Intelligent Service Ring Supported by BDS and GIS, Computer Technology and Development, 2019](http://kns.cnki.net/kcms/detail/61.1450.TP.20190422.1437.002.html) 
+[Design and Implementation of Intelligent Service Ring Supported by BDS and GIS, Computer Technology and Development, 2019](http://www.xactad.org//oa/darticle.aspx?type=view&id=202001036) 
 
 ## Project
 
