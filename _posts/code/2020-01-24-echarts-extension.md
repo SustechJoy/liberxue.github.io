@@ -8,7 +8,7 @@ tags:
 - echarts
 - apache
 
-background-image: https://www.echartsjs.com/zh/images/logo.png
+background-image: https://cdn.dribbble.com/users/984227/screenshots/4647279/echarts.png
 date:   2020-01-24 13:42:00
 category: code
 
@@ -26,7 +26,7 @@ Here are some unofficial extensions to Apache Echarts, implemented by [Yi Zhao](
 
    Trigger chart (Zoom in/out):
 
-   **For highlight function, use mouse over and mouse out as  the event, use highlight as the action.**
+   **For highlight function, use mouseover and mouseout as the event, use highlight and downplay as the action.**
 
 ```
 // response to datazoom event
