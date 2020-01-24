@@ -3,7 +3,7 @@ layout: blog
 comments: true
 istop: false
 code: true
-title: "Git忽略规则及.gitignore规则正确姿势"
+title: "Git ignore rule and .gitignore usage"
 background-image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 date:  2017-07-16 23:45:56
 category: code

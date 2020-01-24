@@ -3,7 +3,7 @@ layout: blog
 istop: false
 comments: true
 code: true
-title: "GitHub当作私密的版本控制系统远端版本库私有化"
+title: "GitHub as private version control system"
 background-image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 date:  2017-03-07
 category: code

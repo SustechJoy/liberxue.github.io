@@ -2,7 +2,7 @@
 layout: blog
 comments: true
 code: true
-title:  "自己搭建Ngrok服务器实现内网穿透"
+title:  "Config Ngrok Server to implement Intranet penetration"
 tags:
 - Ngrok
 - network

@@ -2,7 +2,7 @@
 layout: blog
 comments: true
 code: true
-title:  "JSONP技术实现跨域资源请求"
+title:  "CORS request avoidance using JSONP"
 tags:
 - jsonp
 - javascript
