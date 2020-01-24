@@ -19,7 +19,7 @@ padding-bottom: 0px;
         <div class="footer-container">
             <div class="meta-item meta-copyright">
                 <div class="meta-copyright-info">
-                    <h3 class="meta-title">技术支持</h3>
+                    <h3 class="meta-title">Support</h3>
                     <div class="info-text">
                         <p>Powered by <a href="https://github.com/" title="Github" data-hover="Github" target="_blank"
                                 rel="nofollow">Github</a></p>
@@ -33,7 +33,7 @@ padding-bottom: 0px;
                 </div>
             </div>
             <div class="meta-item meta-posts">
-                <h3 class="meta-title">置顶文章</h3>
+                <h3 class="meta-title">Top Articles</h3>
                 <!--置顶-->
                 {% for post in site.posts limit:15 %}
                 {% if post.istop %}
@@ -44,7 +44,7 @@ padding-bottom: 0px;
                 <!--置顶-->
             </div>
             <div class="meta-item meta-comments">
-                <h3 class="meta-title">最新文章</h3>
+                <h3 class="meta-title">Latest Articles</h3>
                 {% for post in site.posts limit:8 %}
                 {% if post.code %}
                 <li><a href="{{ post.url }}" title="访问 {{ post.title }}"

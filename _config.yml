@@ -11,19 +11,19 @@ paginate: 9
 paginate_path: "liberxuepage:num"
 gems: [jekyll-paginate]
 links:
-  - name:         首页
+  - name:         Home
     url:          /
     external:     false
-  - name:         Resume (简历)
+  - name:         About
     url:          /about
     external:     false
-  - name:         代码
+  - name:         Code
     url:          /code
     external:     false
-  - name:         外设
+  - name:         Hardware
     url:          /hardware
     external:     false
-  - name:         记录
+  - name:         Record
     url:          /record
     external:     false
 # ------------ CONFIGURABLE END ------------

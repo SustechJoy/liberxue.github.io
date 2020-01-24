@@ -1,6 +1,5 @@
 ---
 layout: blog
-istop: true
 comments: true
 code: true
 title:  "Echarts extension"
