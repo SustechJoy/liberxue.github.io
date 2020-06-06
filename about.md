@@ -16,18 +16,18 @@ redirect_from:
 
 Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong, supervised by [Prof. Bo Tang](https://acm.sustech.edu.cn/btang) (GPA: 3.89 / 4.00, 1/146)
 
-Summer Research: University of California, Irvine, supervised by [Prof. Chen Li](https://chenli.ics.uci.edu), Saleh Alsudais, Sadeem and [Qiushi Bai](https://qiushibai.wordpress.com/) (GPA: 4.00 / 4.00)
+Summer Research: University of California, Irvine, supervised by [Prof. Chen Li](https://chenli.ics.uci.edu), [Prof. Shuang Zhao](https://shuangz.com), Saleh Alsudais, Sadeem and [Qiushi Bai](https://qiushibai.wordpress.com/) (GPA: 4.00 / 4.00)
 
 ## Publications
 
-[1] W. T. Ning, Q. D. Tang, **Y. Zhao**, C. Yang, X. F. Wang, T. Wang, H. T. Liu, Z. Y. Zhou, C. Z. Zhang, Q. M. Shen, B. Tang" CheetahVIS: A Visual Analytical System for Massive Urban Bus Data", the 2020 International Conference on Management of Data. ACM, 2020. (under review)
+[1] W. T. Ning, Q. D. Tang, **Y. Zhao**, C. Yang, X. F. Wang, T. Wang, H. T. Liu, Z. Y. Zhou, C. Z. Zhang, Q. M. Shen, B. Tang" CheetahVIS: A Visual Analytical System for Massive Urban Bus Data", Proceedings of the VLDB Endowment 2020. (to appear)
 
 [2] Y. L. Wang, Z. N. Zhao, **Y. Zhao**, S.Y. Zhang, X. Yang and J. Jian
 [Design and Implementation of Intelligent Service Ring Supported by BDS and GIS, Computer Technology and Development, 2019](http://www.xactad.org//oa/darticle.aspx?type=view&id=202001036) 
 
 ## Project
 
-CheetahVIS: A Visual Analytical System for Massive Urban Bus Data.
+CheetahVIS: A Visual Analytical System for Massive Urban Bus Data (VLDB 2020).
 
 Cloudberry: Bigdata Visualization (University of California, Irvine).
 
