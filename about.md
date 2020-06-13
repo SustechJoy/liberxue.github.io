@@ -31,7 +31,7 @@ CheetahVIS: A Visual Analytical System for Massive Urban Bus Data (VLDB 2020).
 
 Cloudberry: Bigdata Visualization (University of California, Irvine).
 
-2018 SUSTech-Tencent Practical Project member (focus on locating crash through static calling graph).
+2019 SUSTech-Tencent Practical Project member (focus on locating crash through static calling graph).
 
 Geographical route planning system based on BDS and GIS.
 
@@ -45,13 +45,17 @@ Tensorflow optimization system based on multi-hardware congruent planning.
 
 ## Experience
 
-2019 Bytedance backend development.
+2020 Bytedance backend development (Enterprise Application).
+
+2018-2019 Tencent-SUSTech joint research program member.
 
 2017-2018 SUSTech Computer programming principle student assistant.
 
 2017-2018 SUSTech Database Principle student assistant.
 
 ## Award
+
+2020 SUSTech Outstanding Graduate. (accompanied with Computer Science and Engineering Department)
 
 Dec 2018 ACM-ICPC Asia East-Continent Final Site 2018 Bronze Medal.
 
