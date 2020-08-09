@@ -12,11 +12,23 @@ redirect_from:
 
 ## Yi Zhao
 
+Now I am a full-time backend developer at **bytedance** company. Prior to that, I received my bachelor (B.E. in computer science) degree from **SUSTech** as an **outstanding graduate**, under the supervision of **Prof.Bo Tang**. I have published one demo paper in VLDB conference(CCF-A), and won bronze medal in **ACM-ICPC EC final**. My cute girl friend is a full-time operation engineer in ICBC.
+
 ## Education
 
 Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong, supervised by [Prof. Bo Tang](https://acm.sustech.edu.cn/btang) (GPA: 3.89 / 4.00, 1/146)
 
 Summer Research: University of California, Irvine, supervised by [Prof. Chen Li](https://chenli.ics.uci.edu), [Prof. Shuang Zhao](https://shuangz.com), Saleh Alsudais, Sadeem and [Qiushi Bai](https://qiushibai.wordpress.com/) (GPA: 4.00 / 4.00)
+
+## Experience
+
+2020 Bytedance full-time backend developer. (Enterprise Application).
+
+2018-2019 Tencent-SUSTech joint research program member.
+
+2017-2018 SUSTech Computer programming principle student assistant.
+
+2017-2018 SUSTech Database Principle student assistant.
 
 ## Publications
 
@@ -43,16 +55,6 @@ Rank aware query on consecutive space.
 
 Tensorflow optimization system based on multi-hardware congruent planning.
 
-## Experience
-
-2020 Bytedance backend development (Enterprise Application).
-
-2018-2019 Tencent-SUSTech joint research program member.
-
-2017-2018 SUSTech Computer programming principle student assistant.
-
-2017-2018 SUSTech Database Principle student assistant.
-
 ## Award
 
 2020 SUSTech Outstanding Graduate. (accompanied with Computer Science and Engineering Department)
@@ -77,11 +79,6 @@ July 2017 Third class EIC scholarship, Shuren College.
 
 #### Contact me
 ------
-- [Institution mail](mailto:11612917@mail.sustech.edu.cn)
+- [Institution mail](mailto:zhaoyi.joey@bytedance.com)
 - [Personal mail](mailto:joy11612917@gmail.com)
-
-#### Link
-------
-- [hguandl](https://hguandl.com)
-- [hackroid](https://blog.hackroid.com)
 
