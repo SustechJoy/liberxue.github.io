@@ -12,7 +12,7 @@ redirect_from:
 
 ## Yi Zhao
 
-Now I am a full-time backend developer at **[ByteDance](https://bytedance.com/)** company. Prior to that, I received my bachelor (B.E. in computer science) degree from **[SUSTech](http://sustech.edu.cn/)** as an **outstanding graduate**, under the supervision of **[Prof.Bo Tang](https://acm.sustech.edu.cn/btang)**. I have published one demo paper in **[VLDB](http://www.vldb.org/)** conference(CCF-A), and won bronze medal in **ACM-ICPC EC final**. My cute girl friend is a full-time operation engineer in **[ICBC](http://www.icbc.com.cn/icbc/)**.
+Now I am a full-time backend developer at **[ByteDance](https://bytedance.com/)** company. Prior to that, I received my bachelor (B.E. in computer science) degree from **[SUSTech](http://sustech.edu.cn/)** as an **outstanding graduate**, under the supervision of **[Prof.Bo Tang](https://acm.sustech.edu.cn/btang)**. I have published one demo paper in **[VLDB](http://www.vldb.org/)** conference(CCF-A), and won bronze medal in **[ACM-ICPC](https://icpc.global/) EC final**. My cute girl friend is a full-time operation engineer in **[ICBC](http://www.icbc.com.cn/icbc/) data center**.
 
 ## Education
 
