@@ -12,13 +12,13 @@ redirect_from:
 
 ## Yi Zhao
 
-Now I am a full-time backend developer at **[ByteDance](https://bytedance.com/)** company. Prior to that, I received my bachelor (B.E. in computer science) degree from **[SUSTech](http://sustech.edu.cn/)** as an **outstanding graduate**, under the supervision of **[Prof.Bo Tang](https://acm.sustech.edu.cn/btang)**. I have published one demo paper in **[VLDB](http://www.vldb.org/)** conference(CCF-A), and won bronze medal in **[ACM-ICPC](https://icpc.global/) EC final**. My cute girl friend is a full-time operation engineer in **[ICBC](http://www.icbc.com.cn/icbc/) data center**.
+Now I am a full-time backend developer at **[ByteDance](https://bytedance.com/)** company. Prior to that, I received my bachelor (B.E. in computer science) degree from **[SUSTech](http://sustech.edu.cn/)** as an **Outstanding Graduate**, under the supervision of **[Prof.Bo Tang](https://acm.sustech.edu.cn/btang)**. I was once a research assistant in University of California, Irvine ISG (Information Systems Group), participated in the development of the big data visualization middeleware **[Cloudberry](http://cloudberry.ics.uci.edu/)**, supervised by [Prof. Chen Li](https://chenli.ics.uci.edu) and [Prof. Shuang Zhao](https://shuangz.com). I have published one demo paper in **[VLDB](http://www.vldb.org/)** conference(CCF-A), and won bronze medal in **[ACM-ICPC](https://icpc.global/) EC final**. My cute girl friend is a full-time operation engineer in **[ICBC](http://www.icbc.com.cn/icbc/)** Data Center Shanghai.
 
 ## Education
 
-Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong, supervised by [Prof. Bo Tang](https://acm.sustech.edu.cn/btang) (GPA: 3.89 / 4.00, 1/146)
+Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong. (GPA: 3.89 / 4.00, 1/146)
 
-Summer Research: University of California, Irvine, supervised by [Prof. Chen Li](https://chenli.ics.uci.edu), [Prof. Shuang Zhao](https://shuangz.com), Saleh Alsudais, Sadeem and [Qiushi Bai](https://qiushibai.wordpress.com/) (GPA: 4.00 / 4.00)
+Summer Research: University of California, Irvine. (GPA: 4.00 / 4.00)
 
 ## Experience
 
@@ -38,6 +38,8 @@ Summer Research: University of California, Irvine, supervised by [Prof. Chen Li]
 [Design and Implementation of Intelligent Service Ring Supported by BDS and GIS, Computer Technology and Development, 2019](http://www.xactad.org//oa/darticle.aspx?type=view&id=202001036) 
 
 ## Project
+
+[On going] Space: A general scaffold for cloud service. 
 
 CheetahVIS: A Visual Analytical System for Massive Urban Bus Data (VLDB 2020).
 
