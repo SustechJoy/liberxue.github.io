@@ -2,45 +2,48 @@
 layout: blog
 comments: true
 code: true
-title:  "Enviornmental Problem When Installing Applications Under 'sudo' Mode"
+title:  "数据库查询 TIP 10.23"
 tags:
-- linux
-- environment setting
-- sudo
+- database
+- mybatis
+- mysql
 
 background-image: https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg
-date:   2020-10-11 21:45:00
+date:   2020-10-24 16:02:00
 category: code
 
 ---
 
-I have encountered the same problem twice until I met a simple solution to the following problem tonight:
+1. 判断一个可能为空的字段不为某个值:
 
-```
-could not find java, set java_home
-```
-
-which is caused by enviornment variables are reset when getting into the super user mode.
-
-
-
-To keep your enviorment variables. use ```-E``` after sudo, which helps to maintain the path variables even enter the super user mode. For example,
-
-```
-sudo -E  apt-get install ./elasticsearch-6.8.1.deb
+```sql
+select * from tbl
+where tbl_col_1 <> 'CERTAIN_VALUE'
 ```
 
-Here's more detail about ```-E```
+如果某行该字段的值为null
 
+```sql
+select * from 
+where IFNULL(tbl_col_1, '') <> 'CERTAIN_VALUE'
 ```
-  -E   The -E (preserve environment) option indicates to the security policy that the user wishes
-       to preserve their existing environment variables.  The security policy may return an error 
-       if the -E option is specified and the user does not have permission to preserve the environment
-```
+
+如果不做判空处理，会导致数据库认为null 并非"不等于"待比较值，而无法返回预期结果。
+
+具体是否需要增加IFNULL语句，需对应到具体业务场景，由null值的具体语义决定。
 
 
 
-Reference:
+2. CDATA标签
 
-[1]. https://stackoverflow.com/questions/12309253/sudo-java-command-not-found-after-exiting-from-root-user
+被`<![CDATA[]]>`这个标记所包含的内容将表示为**纯文本**，比如`<![CDATA[<]]>`表示文本内容`“<”`。
+
+在xml中, `<`, `>`, `&`等字符不可以直接存入，必须采用转义的方式
+
+**为了方便起见**，使用`<![CDATA[]]>`来包含不被xml解析器解析的内容。但要注意的是：
+
+- 此部分不能再包含`”]]>”`；
+
+- 不允许嵌套使用；
+- `”]]>”`这部分不能包含空格或者换行。
 
