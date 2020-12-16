@@ -9,17 +9,27 @@ redirect_from:
 
 ![personal_pic](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/yi_zhao_pic.png)
 
-## Yi Zhao [**<u>CV</u>**](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/Yi%20Zhao%20CV.pdf) [**<u>简历</u>**](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/%E8%B5%B5%E8%AF%A3%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86.pdf)
+### Yi Zhao (赵诣) [**<u>CV</u>**](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/Yi%20Zhao%20CV.pdf) [**<u>简历</u>**](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/%E8%B5%B5%E8%AF%A3%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86.pdf)
+
+---
 
 Now I am a backend RD (Research & Develop Engineer) at **[ByteDance](https://bytedance.com/)** company. Prior to that, I received my bachelor (B.E. in computer science) degree from **[SUSTech](http://sustech.edu.cn/)** as an **Outstanding Graduate**, under the supervision of **[Prof.Bo Tang](https://acm.sustech.edu.cn/btang)**. I was once a research assistant in University of California, Irvine ISG (Information Systems Group), participated in the development of the big data visualization middeleware **[Cloudberry](http://cloudberry.ics.uci.edu/)**, supervised by **[Prof. Chen Li](https://chenli.ics.uci.edu)** and **[Prof. Shuang Zhao](https://shuangz.com)**. I have published one demo paper in **[VLDB](http://www.vldb.org/)** conference(CCF-A), and won bronze medal in **[ACM-ICPC](https://icpc.global/)** EC final. My cute girl friend is a full-time SRE (Site Reliability Engineer) in **[ICBC](http://www.icbc.com.cn/icbc/)** Data Center Shanghai.
 
-## Education
+
+
+### Education
+
+---
 
 Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong. (GPA: 3.89 / 4.00, 1/146)
 
 Summer Research: University of California, Irvine. (GPA: 4.00 / 4.00)
 
-## Experience
+
+
+### Experience
+
+---
 
 2020 ByteDance backend RD (Research & Develop Engineer). 
 
@@ -31,14 +41,22 @@ Summer Research: University of California, Irvine. (GPA: 4.00 / 4.00)
 
 2017 State Grid Database Administrator (Intern).
 
-## Publications
+
+
+### Publications
+
+---
 
 [1] W. T. Ning, Q. D. Tang, **Y. Zhao**, C. Yang, X. F. Wang, T. Wang, H. T. Liu, Z. Y. Zhou, C. Z. Zhang, Q. M. Shen, B. Tang [CheetahVIS: A Visual Analytical System for Massive Urban Bus Data](http://www.vldb.org/pvldb/vol13/p2805-ning.pdf), Proceedings of the VLDB Endowment 2020.
 
 [2] Y. L. Wang, Z. N. Zhao, **Y. Zhao**, S.Y. Zhang, X. Yang and J. Jian
 [Design and Implementation of Intelligent Service Ring Supported by BDS and GIS, Computer Technology and Development, 2019](http://www.xactad.org//oa/darticle.aspx?type=view&id=202001036) 
 
-## Project
+
+
+### Project
+
+---
 
 [On going] Space: A general scaffold for cloud service. 
 
@@ -58,7 +76,11 @@ Rank aware query on consecutive space.
 
 Tensorflow optimization system based on multi-hardware congruent planning.
 
-## Award
+
+
+### Award
+
+---
 
 2020 SUSTech Outstanding Graduate. (accompanied with Computer Science and Engineering Department)
 
@@ -80,7 +102,10 @@ July 2018 Second class EIC scholarship, Shuren College.
 
 July 2017 Third class EIC scholarship, Shuren College.
 
+
+
 #### Contact me
+
 ------
 - [Company](mailto:zhaoyi.joey@bytedance.com)
 - [Personal](mailto:joy11612917@gmail.com)

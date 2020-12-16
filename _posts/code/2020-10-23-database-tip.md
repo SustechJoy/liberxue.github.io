@@ -2,7 +2,7 @@
 layout: blog
 comments: true
 code: true
-title:  "数据库查询 TIP 10.23"
+title:  "Database Query TIP 10.23"
 tags:
 - database
 - mybatis
