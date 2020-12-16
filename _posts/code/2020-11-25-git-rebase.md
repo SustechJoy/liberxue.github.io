@@ -26,25 +26,25 @@ On branch master
 Your branch is up to date with 'origin/master'.
 
 commit 5ff173eadd1090b28f97b80b2a8ec1bcc74eb21b (HEAD -> master)
-Author: zhaoyi <zhaoyi.joey@bytedance.com>
+Author: zhaoyi 
 Date:   Thu Nov 26 11:58:52 2020 +0800
 
     change 2
 
 commit b0d9c417ac5f860bcebcbd8d7cff24c3e25ecb29
-Author: zhaoyi <zhaoyi.joey@bytedance.com>
+Author: zhaoyi 
 Date:   Thu Nov 26 11:58:38 2020 +0800
 
     change 1
 
 commit 62e7bba8eb4a2e37860c34d594dd64f26093d74c (origin/master)
-Author: zhaoyi <zhaoyi.joey@bytedance.com>
+Author: zhaoyi 
 Date:   Mon Nov 9 20:11:39 2020 +0800
 
     c3
 
 commit 9537547f347f90ebba512dde619e0f502867936a
-Author: zhaoyi <zhaoyi.joey@bytedance.com>
+Author: zhaoyi 
 Date:   Mon Nov 9 20:10:30 2020 +0800
 
     c1
@@ -120,7 +120,7 @@ View commits again:
 
 ```sh
 commit 00dfb031b21c9820abfcb8ec936d544f5dc50919 (HEAD -> master)
-Author: zhaoyi <zhaoyi.joey@bytedance.com>
+Author: zhaoyi 
 Date:   Thu Nov 26 11:58:38 2020 +0800
 
     change 1
@@ -128,19 +128,19 @@ Date:   Thu Nov 26 11:58:38 2020 +0800
     change 2
 
 commit 62e7bba8eb4a2e37860c34d594dd64f26093d74c (origin/master)
-Author: zhaoyi <zhaoyi.joey@bytedance.com>
+Author: zhaoyi 
 Date:   Mon Nov 9 20:11:39 2020 +0800
 
     c3
 
 commit 9537547f347f90ebba512dde619e0f502867936a
-Author: zhaoyi <zhaoyi.joey@bytedance.com>
+Author: zhaoyi 
 Date:   Mon Nov 9 20:10:30 2020 +0800
 
     c1
 
 commit 2c0c7a703d180791e65d82c65192ed1e7ef03efe
-Author: zhaoyi <zhaoyi.joey@bytedance.com>
+Author: zhaoyi 
 Date:   Mon Nov 9 20:09:02 2020 +0800
 ```
 
