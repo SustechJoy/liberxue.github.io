@@ -92,11 +92,7 @@ Nov 2018 ACM-ICPC Asia Regional Contest Xuzhou Site 2018 Bronze Medal.
 
 May 2018 CCPC National Invitation Competition (Hunan) 2018 Bronze Medal.
 
-Sept 2019 First class Merit-Based Undergraduate Scholarship, SUSTech.
-
-Sept 2018 First class Merit-Based Undergraduate Scholarship, SUSTech.
-
-Sept 2017 First class Merit-Based Undergraduate Scholarship, SUSTech.
+Sept [2019, 2018, 2017] First class Merit-Based Undergraduate Scholarship, SUSTech.
 
 July 2018 Second class EIC scholarship, Shuren College.
 
