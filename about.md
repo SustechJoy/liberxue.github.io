@@ -7,15 +7,11 @@ redirect_from:
   - /about/
 ---
 
-![personal_pic](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/yi_zhao_pic.jpg)
+![personal_pic](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/yi_zhao_pic.png)
 
-### [**<u>Download My Resume here</u>**](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/Yi%20Zhao%20CV.pdf)
+## Yi Zhao [**<u>CV</u>**](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/Yi%20Zhao%20CV.pdf) [**<u>简历</u>**](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/%E8%B5%B5%E8%AF%A3%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86.pdf)
 
-### [**<u>下载我的个人简历 (中文)</u>**](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/%E8%B5%B5%E8%AF%A3%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86.pdf)
-
-## Yi Zhao
-
-Now I am a full-time backend developer at **[ByteDance](https://bytedance.com/)** company. Prior to that, I received my bachelor (B.E. in computer science) degree from **[SUSTech](http://sustech.edu.cn/)** as an **Outstanding Graduate**, under the supervision of **[Prof.Bo Tang](https://acm.sustech.edu.cn/btang)**. I was once a research assistant in University of California, Irvine ISG (Information Systems Group), participated in the development of the big data visualization middeleware **[Cloudberry](http://cloudberry.ics.uci.edu/)**, supervised by **[Prof. Chen Li](https://chenli.ics.uci.edu)** and **[Prof. Shuang Zhao](https://shuangz.com)**. I have published one demo paper in **[VLDB](http://www.vldb.org/)** conference(CCF-A), and won bronze medal in **[ACM-ICPC](https://icpc.global/)** EC final. My cute girl friend is a full-time operation engineer in **[ICBC](http://www.icbc.com.cn/icbc/)** Data Center Shanghai.
+Now I am a backend RD (Research & Develop Engineer) at **[ByteDance](https://bytedance.com/)** company. Prior to that, I received my bachelor (B.E. in computer science) degree from **[SUSTech](http://sustech.edu.cn/)** as an **Outstanding Graduate**, under the supervision of **[Prof.Bo Tang](https://acm.sustech.edu.cn/btang)**. I was once a research assistant in University of California, Irvine ISG (Information Systems Group), participated in the development of the big data visualization middeleware **[Cloudberry](http://cloudberry.ics.uci.edu/)**, supervised by **[Prof. Chen Li](https://chenli.ics.uci.edu)** and **[Prof. Shuang Zhao](https://shuangz.com)**. I have published one demo paper in **[VLDB](http://www.vldb.org/)** conference(CCF-A), and won bronze medal in **[ACM-ICPC](https://icpc.global/)** EC final. My cute girl friend is a full-time SRE (Site Reliability Engineer) in **[ICBC](http://www.icbc.com.cn/icbc/)** Data Center Shanghai.
 
 ## Education
 
@@ -25,13 +21,15 @@ Summer Research: University of California, Irvine. (GPA: 4.00 / 4.00)
 
 ## Experience
 
-2020 ByteDance full-time backend developer. (Enterprise Application).
+2020 ByteDance backend RD (Research & Develop Engineer). 
 
-2018-2019 Tencent-SUSTech joint research program member.
+2020 ByteDance backend RD (Intern).
 
-2017-2018 SUSTech Computer programming principle student assistant.
+2018-2019 Tencent-SUSTech Joint Research Program core-member.
 
-2017-2018 SUSTech Database Principle student assistant.
+2017-2018 SUSTech Computer Programming Principle / Database Principle / Operating System SA (Student Assistant).
+
+2017 State Grid Database Administrator (Intern).
 
 ## Publications
 
@@ -77,13 +75,13 @@ Sept 2019 First class Merit-Based Undergraduate Scholarship, SUSTech.
 Sept 2018 First class Merit-Based Undergraduate Scholarship, SUSTech.
 
 Sept 2017 First class Merit-Based Undergraduate Scholarship, SUSTech.
- 
+
 July 2018 Second class EIC scholarship, Shuren College.
 
 July 2017 Third class EIC scholarship, Shuren College.
 
 #### Contact me
 ------
-- [Institution mail](mailto:zhaoyi.joey@bytedance.com)
-- [Personal mail](mailto:joy11612917@gmail.com)
+- [Company](mailto:zhaoyi.joey@bytedance.com)
+- [Personal](mailto:joy11612917@gmail.com)
 
