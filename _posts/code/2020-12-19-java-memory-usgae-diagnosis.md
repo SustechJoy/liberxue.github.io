@@ -18,17 +18,19 @@ tags:
 
 ## 1. jps
 
-> usage: jps [-help]
->        jps [-q] [-mlvV] [<hostid>]
->
-> Definitions:
->     <hostid>:      <hostname>[:<port>]
->
-> -q: only include pID
->
-> -l: list the whole name of the java class
->
-> -v: include the parameters passed to JVM
+```
+usage: jps [-help]
+       jps [-q] [-mlvV] [<hostid>]
+
+Definitions:
+    <hostid>:      <hostname>[:<port>]
+
+-q: only include pID
+
+-l: list the whole name of the java class
+
+-v: include the parameters passed to JVM
+```
 
 ```
 $ jps
@@ -37,7 +39,6 @@ $ jps
 The jps command monitor the running java processes and return their pid(s).
 
 ```
-
 $ jps
 167257 Jps
 381 Bootstrap
@@ -48,22 +49,24 @@ $ jps
 
 ## 2. jinfo
 
-> Usage:
->     jinfo [option] <pid>
->         (to connect to running process)
->     jinfo [option] <executable <core>
->         (to connect to a core file)
->     jinfo [option] [server_id@]<remote server IP or hostname>
->         (to connect to remote debug server)
->
-> where <option> is one of:
->     -flag <name>         to print the value of the named VM flag
->     -flag [+|-]<name>    to enable or disable the named VM flag
->     -flag <name>=<value> to set the named VM flag to the given value
->     -flags               to print VM flags
->     -sysprops            to print Java system properties
->     <no option>          to print both of the above
->     -h | -help           to print this help message
+```
+Usage:
+    jinfo [option] <pid>
+        (to connect to running process)
+    jinfo [option] <executable <core>
+        (to connect to a core file)
+    jinfo [option] [server_id@]<remote server IP or hostname>
+        (to connect to remote debug server)
+
+where <option> is one of:
+    -flag <name>         to print the value of the named VM flag
+    -flag [+|-]<name>    to enable or disable the named VM flag
+    -flag <name>=<value> to set the named VM flag to the given value
+    -flags               to print VM flags
+    -sysprops            to print Java system properties
+    <no option>          to print both of the above
+    -h | -help           to print this help message
+```
 
 ```
 $ jinfo 381
@@ -80,41 +83,42 @@ sysprops: system properties
 
 ## 3. jstat
 
-> Usage: jstat -help|-options
->        jstat -<option> [-t] [-h<lines>] <vmid> [<interval> [<count>]]
->
-> Definitions:
->   <option>      An option reported by the -options option
->   <vmid>        Virtual Machine Identifier. A vmid takes the following form:
->                      <lvmid>[@<hostname>[:<port>]]
->                 Where <lvmid> is the local vm identifier for the target
->                 Java virtual machine, typically a process id; <hostname> is
->                 the name of the host running the target Java virtual machine;
->                 and <port> is the port number for the rmiregistry on the
->                 target host. See the jvmstat documentation for a more complete
->                 description of the Virtual Machine Identifier.
->   <lines>       Number of samples between header lines.
->   <interval>    Sampling interval. The following forms are allowed:
->                     <n>["ms"|"s"]
->                 Where <n> is an integer and the suffix specifies the units as 
->                 milliseconds("ms") or seconds("s"). The default units are "ms".
->   <count>       Number of samples to take before terminating.
->   -J<flag>      Pass <flag> directly to the runtime system.
+```
+Usage: jstat -help|-options
+       jstat -<option> [-t] [-h<lines>] <vmid> [<interval> [<count>]]
 
-> Options:
->
-> -class
-> -compiler
-> -gc
-> -gccapacity
-> -gccause
-> -gcmetacapacity
-> -gcnew
-> -gcnewcapacity
-> -gcold
-> -gcoldcapacity
-> -gcutil
-> -printcompilation
+Definitions:
+  <option>      An option reported by the -options option
+  <vmid>        Virtual Machine Identifier. A vmid takes the following form:
+                     <lvmid>[@<hostname>[:<port>]]
+                Where <lvmid> is the local vm identifier for the target
+                Java virtual machine, typically a process id; <hostname> is
+                the name of the host running the target Java virtual machine;
+                and <port> is the port number for the rmiregistry on the
+                target host. See the jvmstat documentation for a more complete
+                description of the Virtual Machine Identifier.
+  <lines>       Number of samples between header lines.
+  <interval>    Sampling interval. The following forms are allowed:
+                    <n>["ms"|"s"]
+                Where <n> is an integer and the suffix specifies the units as 
+                milliseconds("ms") or seconds("s"). The default units are "ms".
+  <count>       Number of samples to take before terminating.
+  -J<flag>      Pass <flag> directly to the runtime system.
+Options:
+
+-class
+-compiler
+-gc
+-gccapacity
+-gccause
+-gcmetacapacity
+-gcnew
+-gcnewcapacity
+-gcold
+-gcoldcapacity
+-gcutil
+-printcompilation
+```
 
 - Loaded class info and costed memory.
 
@@ -175,34 +179,36 @@ Compiled  Size  Type Method
 
 ## 4. jmap
 
-> Usage:
->     jmap [option] <pid>
->         (to connect to running process)
->     jmap [option] <executable <core>
->         (to connect to a core file)
->     jmap [option] [server_id@]<remote server IP or hostname>
->         (to connect to remote debug server)
->
-> where <option> is one of:
->     <none>               to print same info as Solaris pmap
->     -heap                to print java heap summary
->     -histo[:live]        to print histogram of java object heap; if the "live"
->                          suboption is specified, only count live objects
->     -clstats             to print class loader statistics
->     -finalizerinfo       to print information on objects awaiting finalization
->     -dump:<dump-options> to dump java heap in hprof binary format
->                          dump-options:
->                            live         dump only live objects; if not specified,
->                                         all objects in the heap are dumped.
->                            format=b     binary format
->                            file=<file>  dump heap to <file>
->                          Example: jmap -dump:live,format=b,file=heap.bin <pid>
->     -F                   force. Use with -dump:<dump-options> <pid> or -histo
->                          to force a heap dump or histogram when <pid> does not
->                          respond. The "live" suboption is not supported
->                          in this mode.
->     -h | -help           to print this help message
->     -J<flag>             to pass <flag> directly to the runtime system
+```
+Usage:
+    jmap [option] <pid>
+        (to connect to running process)
+    jmap [option] <executable <core>
+        (to connect to a core file)
+    jmap [option] [server_id@]<remote server IP or hostname>
+        (to connect to remote debug server)
+
+where <option> is one of:
+    <none>               to print same info as Solaris pmap
+    -heap                to print java heap summary
+    -histo[:live]        to print histogram of java object heap; if the "live"
+                         suboption is specified, only count live objects
+    -clstats             to print class loader statistics
+    -finalizerinfo       to print information on objects awaiting finalization
+    -dump:<dump-options> to dump java heap in hprof binary format
+                         dump-options:
+                           live         dump only live objects; if not specified,
+                                        all objects in the heap are dumped.
+                           format=b     binary format
+                           file=<file>  dump heap to <file>
+                         Example: jmap -dump:live,format=b,file=heap.bin <pid>
+    -F                   force. Use with -dump:<dump-options> <pid> or -histo
+                         to force a heap dump or histogram when <pid> does not
+                         respond. The "live" suboption is not supported
+                         in this mode.
+    -h | -help           to print this help message
+    -J<flag>             to pass <flag> directly to the runtime system
+```
 
 - Shared object start address and other infos.
 
@@ -328,21 +334,23 @@ $ jmap -dump:format=b,file=test.hprof 379
 
 ## 5. jstack
 
-> Usage:
->     jstack [-l] <pid>
->         (to connect to running process)
->     jstack -F [-m] [-l] <pid>
->         (to connect to a hung process)
->     jstack [-m] [-l] <executable> <core>
->         (to connect to a core file)
->     jstack [-m] [-l] [server_id@]<remote server IP or hostname>
->         (to connect to a remote debug server)
->
-> Options:
->     -F  to force a thread dump. Use when jstack <pid> does not respond (process is hung)
->     -m  to print both java and native frames (mixed mode)
->     -l  long listing. Prints additional information about locks
->     -h or -help to print this help message
+```
+Usage:
+    jstack [-l] <pid>
+        (to connect to running process)
+    jstack -F [-m] [-l] <pid>
+        (to connect to a hung process)
+    jstack [-m] [-l] <executable> <core>
+        (to connect to a core file)
+    jstack [-m] [-l] [server_id@]<remote server IP or hostname>
+        (to connect to a remote debug server)
+
+Options:
+    -F  to force a thread dump. Use when jstack <pid> does not respond (process is hung)
+    -m  to print both java and native frames (mixed mode)
+    -l  long listing. Prints additional information about locks
+    -h or -help to print this help message
+```
 
 ```
 $ jstack 379 | less
