@@ -8,7 +8,7 @@ tags:
 - mybatis
 - mysql
 
-background-image: https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg
+background-image: https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png
 date:   2020-10-24 16:02:00
 category: code
 
