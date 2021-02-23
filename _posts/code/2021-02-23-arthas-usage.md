@@ -109,7 +109,7 @@ $ watch demo.MathGame primeFactors returnObj
 >
 > `-x 2` means the print depth is 2
 
-![image-20210223125721376](/Users/yi/Library/Application Support/typora-user-images/image-20210223125721376.png)
+![](https://i.loli.net/2021/02/23/yDq8MkFSIgHJ9u7.png)
 
 
 
