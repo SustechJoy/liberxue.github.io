@@ -5,7 +5,7 @@ istop: false
 record: true
 title: "基金入门实践2"
 background-image: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.xs-keji.com%2Fuploads%2Fallimg%2F190723%2F2241364257_0.jpeg&refer=http%3A%2F%2Fwww.xs-keji.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1617677601&t=8860fbbfbd22e6c067e5f10e45479d2d
-date:  2020-03-07 17:30:00
+date:  2020-03-08 17:30:00
 category: record
 tags:
 - 基金
