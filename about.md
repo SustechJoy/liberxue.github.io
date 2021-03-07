@@ -7,7 +7,7 @@ redirect_from:
   - /about/
 ---
 
-![personal_pic](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/yi_zhao_pic.png)
+![](https://i.loli.net/2021/03/08/oLbhD1kiJ4lPMRj.png)
 
 ### Yi Zhao (赵诣) [**<u>CV</u>**](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/Yi%20Zhao%20CV.pdf) [**<u>简历</u>**](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/%E8%B5%B5%E8%AF%A3%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86.pdf)
 
