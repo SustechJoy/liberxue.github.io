@@ -175,6 +175,9 @@ var postDirectoryBuild = function() {
                 guid = 1,
                 id = 'directory' + (Math.random() + '').replace(/\D/, ''),
                 lastRevNum, num, elem;
+            if (titleElem.length > 0) {
+                lastRevNum = titleElem[0].tagName.match(/\d/)[0] - 1;
+            }
             while (titleElem.length) {
                 elem = titleElem.shift();
                 contentArr.push(elem.innerHTML);
