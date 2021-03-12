@@ -22,7 +22,7 @@ category: code
 
 #### PDF Version can be downloaded [here](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/resources/Large_scale_Geometric_Graph_Visualization.pdf)
 
-This system is built in the [Donald Bren School of Information & Computer Sciences](<https://www.ics.uci.edu/>) of [University of California, Irvine](https://uci.edu) by [Yi Zhao](https://scottyi.club), Qiandong Tang and Er Zhuo under the guidance of [Prof. Chen Li](https://chenli.ics.uci.edu), [Prof. Shuang Zhao](https://www.shuangz.com), Sadeem Alsudais and [Qiushi Bai](<https://qiushibai.wordpress.com/>).
+This system is built in the [Donald Bren School of Information & Computer Sciences](<https://www.ics.uci.edu/>) of [University of California, Irvine](https://uci.edu) by [Yi Zhao](https://yizhao1998.github.io), Qiandong Tang and Er Zhuo under the guidance of [Prof. Chen Li](https://chenli.ics.uci.edu), [Prof. Shuang Zhao](https://www.shuangz.com), Sadeem Alsudais and [Qiushi Bai](<https://qiushibai.wordpress.com/>).
 
 #### Group Photo:
 
