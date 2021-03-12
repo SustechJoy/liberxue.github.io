@@ -17,7 +17,7 @@ Echarts Extension
 
 
 
-Here are some unofficial extensions to Apache Echarts, implemented by [Yi Zhao](<https://scottyi.club/about?yi>).
+Here are some unofficial extensions to Apache Echarts, implemented by [Yi Zhao](<https://yizhao1998.github.io/about?yi>).
 
 1. Multiple charts joint zoom in/out and highlight:
 
