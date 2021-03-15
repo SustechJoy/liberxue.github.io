@@ -4,7 +4,7 @@ comments: true
 istop: false
 code: true
 title: "Git ignore rule and .gitignore usage"
-background-image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+background-image: https://i.loli.net/2021/03/15/FjLbcWCemYy4lAu.png
 date:  2017-07-16 23:45:56
 category: code
 tags:

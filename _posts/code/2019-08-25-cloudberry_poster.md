@@ -18,7 +18,7 @@ category: code
 
 #### Poster:
 
-![Big_Data_Visualization_using_Cloudberry-1](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/Large_scale_Geometric_Graph_Visualization.jpg)
+![Big_Data_Visualization_using_Cloudberry-1](https://i.loli.net/2021/03/15/o6vbcLAzQsDRh4F.jpg)
 
 #### PDF Version can be downloaded [here](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/resources/Large_scale_Geometric_Graph_Visualization.pdf)
 
@@ -26,7 +26,7 @@ This system is built in the [Donald Bren School of Information & Computer Scienc
 
 #### Group Photo:
 
-![Big_Data_Visualization_using_Cloudberry-1](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/graph_viz_gathering_photo.jpg)
+![Big_Data_Visualization_using_Cloudberry-1](https://i.loli.net/2021/03/15/PSEDdOQKeJtGmUi.jpg)
 
 People in the photo: Qiushi Bai, Er Zhuo, Qiandong Tang, Yi Zhao, Sadeem Alsudais, Chen Li (from left to right)
 

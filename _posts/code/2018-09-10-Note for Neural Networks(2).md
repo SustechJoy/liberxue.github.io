@@ -17,7 +17,7 @@ Gradient descent
 
 reduce the error between the anticipated and  realistic output
 
-![1570098202831](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570098202831.png)
+![](https://i.loli.net/2021/03/15/sXPlbIWZ1hCxAc3.png)
 $$
 w_{new}=w_{old}-\alpha*\nabla error
 $$
@@ -67,11 +67,11 @@ $$
 
 Two dimensional Gradient Descent
 
-![1570104403678](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570104403678.png)
+![](https://i.loli.net/2021/03/15/Ldo41mIYhyEjWHS.png)
 
 Backpropagation in  depth (Math Part.)
 
-![1570104506171](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570104506171.png)
+![](https://i.loli.net/2021/03/15/9quw4jRH23hSmLU.png)
 
 The output of the NN:
 $$
@@ -98,7 +98,7 @@ $$
 $$
 The derivative of sigmoid is
 
-![1570105978951](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570105978951.png)
+![](https://i.loli.net/2021/03/15/zYqG8vpsOF41AQu.png)
 
 The loss function
 $$

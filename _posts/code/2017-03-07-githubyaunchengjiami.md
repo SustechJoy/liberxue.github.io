@@ -4,7 +4,7 @@ istop: false
 comments: true
 code: true
 title: "GitHub as private version control system"
-background-image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+background-image: https://i.loli.net/2021/03/15/FjLbcWCemYy4lAu.png
 date:  2017-03-07
 category: code
 tags:

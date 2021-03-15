@@ -37,8 +37,7 @@ plt.ylabel('f(x)')
 plt.show()
 ```
 
-![1570010605082](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570010605082.png)
-
+![](https://i.loli.net/2021/03/15/NpEC7MtlaeOPYbs.png)
 
 
 Perceptron: Node
@@ -49,19 +48,19 @@ input: weighted inputs
 
 output: apply activation function to the sum of the weighted inputs
 
-![1570019369081](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570019369081.png)
+![](https://i.loli.net/2021/03/15/bYBoUfksQw9pZXA.png)
 $$
 h_{w, b}(x) = x1w1 + x2w2+x3w3+b
 $$
-![1570019767950](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570019767950.png)
+![](https://i.loli.net/2021/03/15/wQtjMKRJrZDsbaq.png)
 
 Fig: Example for $h_{w, b}(x) = x1w1$
 
-![1570019976114](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570019976114.png)
+![](https://i.loli.net/2021/03/15/aQTRM714gwGY6cV.png)
 
 Putting together the structure
 
-![1570020501808](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570020501808.png)
+![](https://i.loli.net/2021/03/15/vKWdtIyUXs5ScF7.png)
 
 Fig: A multi-layer neural network (input(L1) + hidden(L2) + output(L3))
 
@@ -73,13 +72,13 @@ $b_i^{(l)}$ $i$ is the node number in the layer $l+1$
 
 For example,  the weight on the connection between the bias in layer 1 and the second node in layer 2 is given by $b_2^{(1)}$
 
-![1570021849324](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570021849324.png)
+![](https://i.loli.net/2021/03/15/3uAWYfevmLG2CEl.png)
 
 Feed-forward
 
 Use matrix to represent the parameter:
 
-![1570021930275](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570021930275.png)
+![](https://i.loli.net/2021/03/15/ZOCRXzreFosNIEU.png)
 
 ```python
 import numpy as np
@@ -132,11 +131,11 @@ Vectorization:
 
 
 
-![1570022958325](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570022958325.png)
+![](https://i.loli.net/2021/03/15/4T9KXCvW1rcxyqh.png)
 
 Generalization:
 
-![1570023209052](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570023209052.png)
+![](https://i.loli.net/2021/03/15/9uRIMWptLybJw56.png)
 
 ```python
 def matrix_feed_forward_calc(n_layers, x, w, b):

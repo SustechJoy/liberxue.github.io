@@ -19,21 +19,21 @@ J(w, b) = \frac{1}{m}\sum^{m}_{z=0}J(W, b, x^{(z)}, y^{(z)})
 $$
 Vectorize the process:
 
-![1570275593890](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570275593890.png)
+![](https://i.loli.net/2021/03/15/xlUcSHCXedzs9r1.png)
 
 As we need to go through the above operations, we are actually process the data by batches.
 
 we need to sum up all the partial differential terms.
 
-![1570275828806](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570275828806.png)
+![](https://i.loli.net/2021/03/15/LDxR3GcewkOlNHE.png)
 
 Finally, we update.
 
-![1570275859073](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570275859073.png)
+![](https://i.loli.net/2021/03/15/POjS6CMVFf2kW89.png)
 
 Conclude the whole algorithm
 
-![1570276079943](https://github.com/yizhao1998/yizhao1998.github.io/raw/master/_posts/code/img/1570276079943.png)
+![](https://i.loli.net/2021/03/15/98PnDfLyqboIGMt.png)
 
 Next section will give a detailed explanation for the implementation.
 

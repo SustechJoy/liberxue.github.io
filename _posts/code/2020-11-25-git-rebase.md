@@ -4,7 +4,7 @@ comments: true
 istop: false
 code: true
 title: "Use Rebase to Merge Multiple Commits"
-background-image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+background-image: https://i.loli.net/2021/03/15/FjLbcWCemYy4lAu.png
 date:  2020-11-25 14:45:56
 category: code
 tags:
