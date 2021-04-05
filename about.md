@@ -13,7 +13,7 @@ redirect_from:
 
 ---
 
-Now I am a backend RD (Research & Develop Engineer) at **[ByteDance](https://bytedance.com/)** company. Prior to that, I received my bachelor (B.E. in computer science) degree from **[SUSTech](http://sustech.edu.cn/)** as an **Outstanding Graduate**, under the supervision of **[Prof.Bo Tang](https://acm.sustech.edu.cn/btang)**. I was once a research assistant in University of California, Irvine ISG (Information Systems Group), participated in the development of the big data visualization middeleware **[Cloudberry](http://cloudberry.ics.uci.edu/)**, supervised by **[Prof. Chen Li](https://chenli.ics.uci.edu)** and **[Prof. Shuang Zhao](https://shuangz.com)**. I have published one demo paper in **[VLDB](http://www.vldb.org/)** conference(CCF-A), and won bronze medal in **[ACM-ICPC](https://icpc.global/)** EC final. My cute girl friend is a full-time SRE (Site Reliability Engineer) in **[ICBC](http://www.icbc.com.cn/icbc/)** Data Center Shanghai.
+I am a backend RD (Research & Develop Engineer) at **[ByteDance](https://bytedance.com/)** Technology. Prior to that, I received my bachelor (B.E. in computer science) degree from **[SUSTech](http://sustech.edu.cn/)** as an **Outstanding Graduate**, under the supervision of **[Prof.Bo Tang](https://acm.sustech.edu.cn/btang)**. I was once a research assistant in University of California, Irvine ISG (Information Systems Group), participated in the development of the big data visualization middeleware **[Cloudberry](http://cloudberry.ics.uci.edu/)**, supervised by **[Prof. Chen Li](https://chenli.ics.uci.edu)** and **[Prof. Shuang Zhao](https://shuangz.com)**. I have published one demo paper in **[VLDB](http://www.vldb.org/)** conference(CCF-A), and won bronze medal in **[ACM-ICPC](https://icpc.global/)** EC final. My cute girl friend is a full-time SRE (Site Reliability Engineer) in **[ICBC](http://www.icbc.com.cn/icbc/)** Data Center Shanghai.
 
 
 
@@ -25,17 +25,15 @@ Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong. (GPA: 3
 
 Summer Research: University of California, Irvine. (GPA: 4.00 / 4.00)
 
-
-
 ### Experience
 
 ---
 
-2020 ByteDance backend RD (Research & Develop Engineer). 
+2020 ByteDance Backend RD (Research & Develop Engineer). 
 
-2020 ByteDance backend RD (Intern).
+2020 ByteDance Backend RD (Intern).
 
-2018-2019 Tencent-SUSTech Joint Research Program core-member.
+2018-2019 Tencent-SUSTech Joint Research Program Core-member.
 
 2017-2018 SUSTech Computer Programming Principle / Database Principle / Operating System SA (Student Assistant).
 
@@ -58,21 +56,21 @@ Summer Research: University of California, Irvine. (GPA: 4.00 / 4.00)
 
 ---
 
-[On going] Space: A general scaffold for cloud service. 
+[On going] Space: A General Scaffold for Cloud Micro-service. 
 
 CheetahVIS: A Visual Analytical System for Massive Urban Bus Data (VLDB 2020).
 
 Cloudberry: Bigdata Visualization (University of California, Irvine).
 
-2019 SUSTech-Tencent Practical Project member (focus on locating crash through static calling graph).
+2019 SUSTech-Tencent Practical Project Member (Focus on Locating Crash through Static Calling Graph).
 
-Geographical route planning system based on BDS and GIS.
+Geographical Route Planning System Based on BDS and GIS.
 
-SUSTech course selection system (program manager of China innovation and entrepreneurship training program for college students).
+SUSTech Course Selection System (Program Manager of China Innovation and Entrepreneurship Training Program for College Students).
 
-Dynamic UAV group flying system.
+Dynamic UAV Group Flying System.
 
-Rank aware query on consecutive space.
+Rank Aware Query on Consecutive Space.
 
 Tensorflow optimization system based on multi-hardware congruent planning.
 
@@ -82,27 +80,28 @@ Tensorflow optimization system based on multi-hardware congruent planning.
 
 ---
 
-2020 SUSTech Outstanding Graduate. (accompanied with Computer Science and Engineering Department)
+2020 SUSTech, SUSTech CS Dept. Outstanding Graduate. 
 
 Dec 2018 ACM-ICPC Asia East-Continent Final Site 2018 Bronze Medal.
 
-Oct 2018 China Collegiate of Computing Contest (WeChat Mini Program Developing), second class medal in Southern China Region.
+Oct 2018 China Collegiate of Computing Contest (WeChat Mini Program Developing), Second Class Medal in Southern China Region.
 
 Nov 2018 ACM-ICPC Asia Regional Contest Xuzhou Site 2018 Bronze Medal.
 
 May 2018 CCPC National Invitation Competition (Hunan) 2018 Bronze Medal.
 
-Sept [2019, 2018, 2017] First class Merit-Based Undergraduate Scholarship, SUSTech.
+Sept [2019, 2018, 2017] First Class Merit-Based Undergraduate Scholarship, SUSTech.
 
-July 2018 Second class EIC scholarship, Shuren College.
+July 2018 Second Class EIC Scholarship, Shuren College.
 
-July 2017 Third class EIC scholarship, Shuren College.
+July 2017 Third Class EIC Scholarship, Shuren College.
 
 
 
-#### Contact me
+#### Contact Information
 
 ------
-- [Company](mailto:zhaoyi.joey@bytedance.com)
-- [Personal](mailto:joy11612917@gmail.com)
+Raffles City Plaza, No. 2163 Nanhai Avenue, Nanshan District, Shenzhen
+
+zhaoyi.joey AT bytedance.com
 
