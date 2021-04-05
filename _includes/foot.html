@@ -4,13 +4,13 @@ padding-bottom: 0px;
     <div class="footer-social">
         <div class="footer-container clearfix">
             <div class="social-list">
-                <a class="social github" target="blank" href="https://github.com/yizhao1998" title="访问 Joey_Github"
+                <a class="social github" target="blank" href="https://github.com/yizhao1998" title="Access Joey_Github"
                     data-hover="GitHub">GitHub</a>
                 <a class="social github" target="blank" href="https://twitter.com/YiZhao64252304"
-                    title="访问 Joey_Twitter" data-hover="Twitter">Twitter</a>
+                    title="Access Joey_Twitter" data-hover="Twitter">Twitter</a>
                 <a class="social github" target="blank" href="https://www.zhihu.com/people/csmajorer/activities"
-                    title="访问 Joey_zhihu" data-hover="zhihu">zhihu</a>
-                <a class="social github" target="blank" href="https://weibo.com/u/6557316371" title="访问 Joey_Weibo"
+                    title="Access Joey_zhihu" data-hover="zhihu">zhihu</a>
+                <a class="social github" target="blank" href="https://weibo.com/u/6557316371" title="Access Joey_Weibo"
                     data-hover="Sina Weibo">Sina Weibo</a>
             </div>
         </div>
@@ -37,7 +37,7 @@ padding-bottom: 0px;
                 <!--置顶-->
                 {% for post in site.posts limit:15 %}
                 {% if post.istop %}
-                <li><a href="{{ post.url }}" title="访问 {{ post.title }}"
+                <li><a href="{{ post.url }}" title="Access {{ post.title }}"
                         data-hover="{{ post.title }}">{{ post.title }}</a></li>
                 {% endif %}
                 {% endfor %}
@@ -47,7 +47,7 @@ padding-bottom: 0px;
                 <h3 class="meta-title">Latest Articles</h3>
                 {% for post in site.posts limit:8 %}
                 {% if post.code %}
-                <li><a href="{{ post.url }}" title="访问 {{ post.title }}"
+                <li><a href="{{ post.url }}" title="Access {{ post.title }}"
                         data-hover="{{ post.title }}">{{ post.title }}</a></li>
                 {% endif %}
                 {% endfor %}

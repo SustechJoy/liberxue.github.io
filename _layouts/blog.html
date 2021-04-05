@@ -12,7 +12,7 @@
     <div class="navbar-container">
         <div class="navbar-menu">
             {% for link in site.links %}             
-            <a href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}" title="访问 {{  link.name }}" data-hover="{{link.name}}">{{ link.name }}</a>
+            <a href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}" title="Access {{  link.name }}" data-hover="{{link.name}}">{{ link.name }}</a>
                 {% endfor %}
           </div>
         <div class="navbar-search" onclick="">
@@ -54,7 +54,7 @@
       {% endfor %}
       {% else %}
       {% for tag in tags_list %} 
-          <a href="/tags#{{ tag[0] }}" title="访问 {{ tag[0] }}" data-hover="{{tag[0]}}">
+          <a href="/tags#{{ tag[0] }}" title="Access {{ tag[0] }}" data-hover="{{tag[0]}}">
             {{ tag[0] }}
             {% unless forloop.last %}{% endunless %}
           </a>
@@ -79,13 +79,13 @@
       {% assign tags_list = page.tags %}
       {% if tags_list.first[0] == null %}
       {% for tag in tags_list %} 
-          <a href="/tags#{{ tag }}" title="访问{{ tag }}" data-hover="{{ tag }}">
+          <a href="/tags#{{ tag }}" title="Access{{ tag }}" data-hover="{{ tag }}">
           {{ tag }}
           {% unless forloop.last %}{% endunless %}</a>
       {% endfor %}
       {% else %}
       {% for tag in tags_list %} 
-          <a href="/tags#{{ tag[0] }}" title="访问{{ tag[0] }}"  data-hover="{{ tag[0] }}">
+          <a href="/tags#{{ tag[0] }}" title="Access{{ tag[0] }}"  data-hover="{{ tag[0] }}">
             {{ tag[0] }}
             {% unless forloop.last %}{% endunless %}
           </a>
@@ -225,8 +225,8 @@ var postDirectoryBuild = function() {
             li = document.createElement('li');
             link = document.createElement('a');
             link.href = '#' + titleId[i];
-            link.title = '访问' + titleId[i];
-            link.title = '访问' + titleId[i];
+            link.title = 'Access' + titleId[i];
+            link.title = 'Access' + titleId[i];
             link.innerHTML = !isDirNum ? contentArr[i] :
                 dirNum.join('.') + ' ' + contentArr[i] ;
             li.appendChild(link);
