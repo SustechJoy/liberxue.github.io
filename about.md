@@ -21,9 +21,11 @@ I am a backend RD (Research & Develop Engineer) at **[ByteDance](https://bytedan
 
 ---
 
-Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong. (GPA: 3.89 / 4.00, 1/146)
+Master: Rice University, Houston, TX. (2021 ~ 2023)
 
-Summer Research: University of California, Irvine. (GPA: 4.00 / 4.00)
+Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong. (GPA: 3.89 / 4.00, 1/146) (2016 ~ 2020)
+
+Summer Research: University of California, Irvine. (GPA: 4.00 / 4.00) (2019)
 
 ### Experience
 
@@ -72,7 +74,7 @@ Dynamic UAV Group Flying System.
 
 Rank Aware Query on Consecutive Space.
 
-Tensorflow optimization system based on multi-hardware congruent planning.
+Tensorflow Optimization System Based on Multi-hardware Congruent Planning.
 
 
 
@@ -80,13 +82,15 @@ Tensorflow optimization system based on multi-hardware congruent planning.
 
 ---
 
+2021 ByteDance, Spot Bonus Award.
+
 2020 SUSTech, SUSTech CS Dept. Outstanding Graduate. 
 
 Dec 2018 ACM-ICPC Asia East-Continent Final Site 2018 Bronze Medal.
 
 Oct 2018 China Collegiate of Computing Contest (WeChat Mini Program Developing), Second Class Medal in Southern China Region.
 
-Nov 2018 ACM-ICPC Asia Regional Contest Xuzhou Site 2018 Bronze Medal.
+Nov 2018 ACM-ICPC Asia Regional Contest (Xuzhou) Site 2018 Bronze Medal.
 
 May 2018 CCPC National Invitation Competition (Hunan) 2018 Bronze Medal.
 
