@@ -13,7 +13,7 @@ redirect_from:
 
 ---
 
-I am a backend RD (Research & Develop Engineer) at **[ByteDance](https://bytedance.com/)** Technology. Prior to that, I received my bachelor (B.E. in computer science) degree from **[SUSTech](http://sustech.edu.cn/)** as an **Outstanding Graduate**, under the supervision of **[Prof.Bo Tang](https://acm.sustech.edu.cn/btang)**. I was once a research assistant in University of California, Irvine ISG (Information Systems Group), participated in the development of the big data visualization middeleware **[Cloudberry](http://cloudberry.ics.uci.edu/)**, supervised by **[Prof. Chen Li](https://chenli.ics.uci.edu)** and **[Prof. Shuang Zhao](https://shuangz.com)**. I have published one demo paper in **[VLDB](http://www.vldb.org/)** conference(CCF-A), and won bronze medal in **[ACM-ICPC](https://icpc.global/)** EC final. My cute girl friend is a full-time SRE (Site Reliability Engineer) in **[ICBC](http://www.icbc.com.cn/icbc/)** Data Center Shanghai.
+I am an incoming master student of Rice University in 2021 Fall. Prior to that, I was a backend RD (Research & Develop Engineer) at **[ByteDance](https://bytedance.com/)** Technology. I received my bachelor (B.E. in computer science) degree from **[SUSTech](http://sustech.edu.cn/)** as an **Outstanding Graduate**, under the supervision of **[Prof.Bo Tang](https://acm.sustech.edu.cn/btang)**. I was once a research assistant in University of California, Irvine ISG (Information Systems Group), participated in the development of the big data visualization middeleware **[Cloudberry](http://cloudberry.ics.uci.edu/)**, supervised by **[Prof. Chen Li](https://chenli.ics.uci.edu)** and **[Prof. Shuang Zhao](https://shuangz.com)**. I have published one demo paper in **[VLDB](http://www.vldb.org/)** conference(CCF-A), and won bronze medal in **[ACM-ICPC](https://icpc.global/)** EC final. My cute girl friend is a full-time SRE (Site Reliability Engineer) in **[ICBC](http://www.icbc.com.cn/icbc/)** Data Center Shanghai.
 
 
 
@@ -21,17 +21,17 @@ I am a backend RD (Research & Develop Engineer) at **[ByteDance](https://bytedan
 
 ---
 
-Master: Rice University, Houston, TX. (2021 ~ 2023)
+2021-2023 Master: Rice University, Houston, TX.
 
-Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong. (GPA: 3.89 / 4.00, 1/146) (2016 ~ 2020)
+2016-2020 Bachelor: SUSTech Computer Science and Engineering, Shenzhen, Guangdong. (GPA: 3.89 / 4.00, 1/146) 
 
-Summer Research: University of California, Irvine. (GPA: 4.00 / 4.00) (2019)
+2019 Summer Research: University of California, Irvine. (GPA: 4.00 / 4.00) 
 
 ### Experience
 
 ---
 
-2020 ByteDance Backend RD (Research & Develop Engineer). 
+2020-2021 ByteDance Backend RD (Research & Develop Engineer). 
 
 2020 ByteDance Backend RD (Intern).
 
